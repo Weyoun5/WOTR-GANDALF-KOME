@@ -1,0 +1,11 @@
+# Local player settings and saved game history
+**/*preferences*
+**/logs/
+*.log
+*.wotr
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.tmp

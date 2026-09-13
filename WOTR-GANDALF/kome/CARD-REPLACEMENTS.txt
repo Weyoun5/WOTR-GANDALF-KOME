@@ -1,0 +1,34 @@
+KoME card replacements - KoME rulebook, page 19
+
+Each replaces the original card of the same title and number.
+The original face is not retained as a second card in the deck.
+
+Free Peoples Character
+  23  House of the Stewards
+
+Free Peoples Strategy
+   8  Wisdom of Elrond
+  16  Riders of Theoden
+  19  King Brand's Men
+  22  Dain Ironfoot's Guard
+  24  Thranduil's Archers
+
+Shadow Strategy
+   1  Return to Valinor
+   3  Denethor's Folly
+   5  Threats and Promises
+   6  Stormcrow
+  18  The King Is Revealed
+
+There are no Shadow Character replacements in the core KoME set.
+
+Core KoME face counts, including replacements and additions:
+  Free Peoples Character: 3 (1 replacement, 2 additions)
+  Free Peoples Strategy:  7 (5 replacements, 2 additions)
+  Shadow Character:       2 (0 replacements, 2 additions)
+  Shadow Strategy:        7 (5 replacements, 2 additions)
+  Total: 19 (11 replacements, 8 additions).
+
+All event cards use the original client's native card backs for their deck.
+The 13 sovereign/Dark Chieftain ability sheets are in Kings Reference.
+The two workshop promotional event cards are outside the core rules setup.

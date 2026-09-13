@@ -1,0 +1,1053 @@
+PAGE 1
+============================================================
+A GAME BY R. DI MEGLIO, M. MAGGI & F. NEPITELLO
+
+
+
+
+
+                                                              TM
+
+
+
+
+
+                                                                                   TM
+
+PAGE 2
+============================================================
+2 • War of the Ring — Kings of Middle–earth
+
+
+
+
+
+CC HH AA PP TT EE RR   II ::
+II NN TT RR OO DD UU CC TT II OO NN
+
+
+     or centuries, Sauron sought to exert his influence over the rulers
+     of Middle-earth through the Rings of Power. During the War
+     of the Ring, he continued to use his own power and that of hisFminions to coerce the leaders of the Free Peoples into submission, or
+even to join his side. In contrast, Gandalf worked tirelessly to revive
+hope and stir resistance among these rulers. This struggle for the
+ hearts and minds of Middle-earth’s rulers forms the central focus of
+ this expansion.
+
+Kings of Middle-earth is an expansion for the War of the Ring Second
+Edition boardgame. It introduces Sovereigns and Dark Chieftains
+ (collectively called Rulers), two new types of Characters which
+ represent important personalities of Middle-earth with a vital role in
+the War of the Ring.
+COMPONENTS
+
+The Kings of Middle-earth expansion includes the following
+components:
+
+—    This rulebook
+
+—   1 Free Peoples Ruler Special Action die (Light Blue)
+
+—   1 Shadow Ruler Special Action die (Brown)
+
+—   13 new plastic figures
+   —   5 grey Sovereign figures
+             (Brand, Dáin, Denethor, Théoden, Thranduil)
+   —   5 silver Sovereign figures
+             (Brand, Dáin, Denethor, Théoden, Thranduil)
+   —   3 Dark Chieftain figures
+           (The Black Serpent, The Shadow of Mirkwood, Uglúk)
+
+—   5 Corrupted Sovereign plastic rings (Black)
+
+—   13 new Character cards
+   —   5 Awakened Sovereign cards
+   —   5 Corrupted Sovereign cards
+   —   3 Dark Chieftain cards
+
+—   2 Reference sheets
+
+—   1 Sovereign Corruption board
+
+PAGE 3
+============================================================
+                            Chapter I: Introduction • 3
+
+
+
+
+
+—   19 new Event cards
+      (10 for the Free Peoples, 9 for the Shadow)
+   —   11 replacement Event cards
+   —   8 new Event cards
+
+—   14 cardboard counters, including:
+   —   2 Helm’s Deep Shadow Stronghold tiles (to be used
+          when Théoden is Corrupted), in normal size and 2 in
+              larger size (to be used with the Collector’s Edition,
+            Anniversary Release, or Deluxe Game Mat)
+   —   2 Kings Hunt tiles (value of 1/Crown and 2/Crown),
+              in normal size and 2 in larger size (to be used with the
+             Collector’s Edition)
+   —   5 Ruler tokens (one for each Sovereign, two sided)
+   —   1 “Corruptor” token (to use in 3-4 player games)
+SETTING UP THE GAME
+
+To start the game, use the normal War of the Ring setup, with the
+following additions:
+
+—    Give one Reference sheet to the Free Peoples player and one
+      to the Shadow player.
+
+—    Place the Sovereign Corruption board between the players.
+
+—    Set aside the Dark Chieftain Character cards and figures, the
+      Sovereign Character cards, the silver Sovereign figures, and the
+      Corrupted Sovereign plastic rings for later use.
+
+—    Place the five grey Sovereign figures on the game board (Brand
+       in Dale, Dáin in Erebor, Denethor in Minas Tirith, Théoden in
+      Edoras, and Thranduil in Woodland Realm).
+
+—   Remove the Event cards from each deck that are replaced by
+      expansion cards with the same name and card number (see
+      page 19).
+
+—   Add the expansion Event cards to the appropriate decks.
+
+—   Add the two Kings Hunt tiles to the Hunt Pool.
+
+—    Set aside the Ruler Special Action dice. They will be added to
+      the Action Pool as explained in The Ruler Dice, page 6.
+
+—    Set aside the other tokens and tiles; they will be added to the
+     game when necessary.
+
+PAGE 4
+============================================================
+4 • War of the Ring — Kings of Middle–earth
+
+
+
+
+
+                   PP LL AA SS TT II CC  FF II GG UU RR EE SS
+
+                  Free Peoples Sovereign Figures (10)
+
+
+
+
+
+      Brand     Dáin    Denethor  Théoden  Thranduil
+
+              Shadow Dark Chieftain Figures (3)
+
+
+
+
+
+   The Black Serpent  The Shadow of Mirkwood    Uglúk
+
+
+                    CC AA RR DD SS
+
+                       Character Cards (13)
+
+
+
+
+
+                                                                                                                                                                                                                                                                          SERPENT                                                                                                                                                 IRONFOOT                                                                                                                                                                                                                                        BLACK                                         BRAND                                                                                                                                    DÁIN                                                                                                                                                                                                                            THE                                                                                                                                                                                                                                                                                                                                                                                  HARADRIM                                                                                                                                                                                                        RULER                                                                                                                                                                                                                                                                                                                                                                              OF                                                                 DALE                                                         KING                                                                                                                                                                                               CORRUPTED                                                                                                                                                                                                                                                                                                                                                                                                                                                 CHIEFTAIN
+                                                                          you                                                                                                                                                                                                                                                                                                                                                                                                                   THE“At                                                                                                                                                                                                                            Corrupted,                                                                                                                                                                                                                                                                                                                                                                                                                                                             is                                                               OFactive,                                                                                                                                                                                                      becomes                                                              North                                                                                                                                                                                                                                                                                            Gondor                                                                                                                                                                                                                                                                                                                                                                                                 If                                                                                   Action                                                                                                                                                                                                                                                                                                                                           spend                                                                   a                                                                                                                                                                                                                                                                                  may                                                                                                                                                                                                                                   Erebor.                                                                                                                                                                                                                               in                                                                                                                                                                                                                                                                                                          you                                                                  spend                                                                                                                                                                               him                                                                                                                                                                                                                                                                                                                            War”,                                                                                            die                                                                                Ruler                                                                        Musterisany                                                                                                                                                                                                                                                                                                                                                                                                                                             result,                                                                       or                                                                                                                                                                                                                                                                                                                                                                                die                                                                                     result,                                                                                                                                                                                                                                                                                                                                                  Action                                                                             an                                                                                    to                                                                                                                                                                                                                                                Free                                                                        Brand                                                                                                                                                                                                 The                                                              move                                                                      to                                                                                                                                                                                                                      King.                                                                                                                                                                                                                                                                                                                                                                             die                                                                                           City                                                                                                                                                                                                                                                                                                                                            Ruler                                                                                     Peoples                                                                                                                                                                                                                                                                                                                     any                                                                               Free                                                                                                                                                                                                                                                                                                                                                                    the                                                                                                                                                                                                                                    cannot                                                                                                                                                                                                                                                                                                                                                                                 play                                                                                                                                                                                                                                                                                                                                                 toresult                                                                                                                                                                                                                                                               player                                                                           him                                                                                                                                                                                                                                                                                                                                                                        Eye),                                                                                                                                                                                                                                                                                                         an                                                                           awaken                                                                      and                                                                                                                                                                                                                                                              inrecruit                                                                                                                                                                                                                                                                        units                                                                    Stronghold                                                                                                                                                                                                                                                                               Elite                                                                                                                                                                                                                                                                                                                                                                        region                                                                                                                                                                                                                                                                                                                  a                                                                                                                                                                                                                                                        of                                                                                                                                                                                                                                                                                                                                                       Serpent                                                                                                                                                                                                                                                                                                effect                                                                                                                                                                                                                  an                                                                                                                                                                                                                                                             as                                                                                                                                                                                                                          orexcept                                                                                                                                                                                                                                                                                                                                                                    incontaining                                                                                                                                                                                                                                                                          Army                                                                                                                                                                                                                                                                                                       an                                                                                                                                                                                                                                                                 card.                                                                                                                   battle,                                                                                          per                                                                                                                                                                                                                                                                                                                                                                                                    Easterlings                                                                                                                                                                                                                    Event                                                                                                                                                                                     &                                                                          Bard.                                                                       of                                                                                                                                                                                                                                                                                                                                   Southrons                                                                                                       unit                                                                        Army                                                                          a                                                                      and                                                                                                                                                                                                                     Mountain.                                                                   Brand                                                                                                                                                                                                                    Lonely                                                                                                                                                                                                                         the                                                                                                     revealing                                                                                                                                                                                                                   of                                                                                                       after                                                                                                                                                                                                                    you                                                                     a                                                                               in                                                                                                                                                                                                                                                                                            siege,                                                                                                   the                                                                                                                    forfeit                                                                                                                                                                                                                          under                                                                      may                                                                          NorthOnceyou                                                                                                                                                                                                                       Erebor                                                                                                                                                                                                                                                                                                                                                                                          Black                                                                                      cards                                                                                                                                                                                                                                                                                                                                                                                the                                                                                                                                                                                                                     by                                                                                                                                                                                                                                                                                                                                                                                                                                                            If                                                                                                                                                                                                                                                                  there                                                                                              to                                                                                                                                                                                                                                                                                                                                           Wrath.                                                                                                                                                                                                                                                                                   battle                                                                                               card                                                                                                                                                                                                                                                                  siegeis                                                                                                                                                                                                             a                                                                      Combat                                                                                                                                                                                                                                                                                                                                                                                                       before                                                                             your                                                                                                                                                                                                                                           canunit,                                                                                                                                                                                                                                                                                                                                                                                                                                                                    battle,                                                                                                                                                                                                                                                                                                                                        a                                                                                                                                                                                                                                                                                                                                                                                                in                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        is                                                                             Combat                                                                                          the                                                                                                                                                                                                     Shadow                                                                                                                                                                                                               a                                                                                         of                                                                                                    effects                                                                                                                                                                                                                                        once                                                                               ofthebattle,                                                                                                                                                                                                                                                                                               unit,                                                                                                                                                                                                                                                                                                                                                                                                                 cards                                                                                                                                                                                                                                                                                             Elite                                                                                                                                                                                                                    anRegular                                                                           Shadow                                                                                                                                                                                                                                            reducing                                                                                      the                                                                                                                                                                                                                                        of                                                                        by                                                                                played                                                                                                                                                                                                                                                                                                                                                                                                                                                                   effects                                                                                                                                                                                                                                                                                                                                                                              the                                                                                                                                                                                                                                                                                            battle.                                                                                                                                                                                                                                                             siege                                                                          [0]                                                                                                                                                                                                                                                                                                                                        youyourand                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ictof                                                                                                                                                                                                                                                                                                                                                                                    inﬂ                                                                                                                                                                                                                                                                                                                                    and                                                                                                                                                                                                                                                                                                                                                                                                                       card,Combat                                                                                                                                                                                                                                                                                                     aor(exceptBlackwithaunit.MusterRedSerpentrevealingmayCombat                                                                                                                                                                                                                                                                                                                                                                                 to                                                                                         “At                                                                                                                                                                                                                                                                                                                                                                                                                                                             units,                                                                                                                                                                                                                                                         with                                                                                                                                                                                                                                                                                                                                                                 your                                                                                                         If                                                                                                                                                                                                              Companion                                                                                                                                                                                a                                                                                                                                                                                                                                                                                                                                                                                                                                                                     forfeithit                                                                     Arms.                                                                       to                                                                                                                                                                                                                                             IfplaceCorruptedPeoplesLeadersErebor,anFateIfextendDáinremovinginsteadper—                                                                           Ifmaydieresult,unconqueredorthere.HeirifareCombattheeffectscancelcardplayer.Call                                                                                                                       result                                                                                                                                                                                                                                                                             icona                                                                                                                                                                                                                                                                                                                  Combat                                                                                 NorthMuster                                                                                                                                                                                                                                                                                           Peoples                                                                                 a                                                                                                                                                                                                                                                                                                                                                                  your                                                                                                                                                                                                                                                               Free                                                                                      use                                                                                                                                                                                                                                                                                                     on                                                                                                                                                                                                                                                    or                                                                  may                                                                                                                                                                                                                                                                                                                                                                                                                        againstdice                                                                     you                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                all                                                                     War”,                                                                                                                                                                                                                                                                                                                      one1                                                                                     oneis                                                                                                                                                                                                                                                                   as                                                                                                          recruit                                                                                         theto                                                                                                                                                                                                                                                                     region                                                                                                                                                                                                                                                                                                                                                                                           card                                                                                                                                                                                                                        same                                                                                Ruler                                                                                                                                                                                                                                                                    the                                                                             the                                                                                                                                                                                                                               in                                                                                                                                                                                                                                                                                                        Combat                                                                                                                                                                                   WhenDwarvenis                                                                                                                                                                                                                                                                                                                                                            tothe                                                                                                                                                                                                                                                                                                                                                                                                              applyaddroll;your                                                                                                    in                                                                                                                                                                                                                                                                                                               on                                                                                                                                                                                                                                                                       FreeDáin,                                                                                                                                                                                                                                                                                 the                                                                                                                                                                                                                                                                                                                                                                                                                                 “Relentlessdice                                                                                     Leader                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 allis                                                                                          dieor                                                                                                                                                                                                                                                                                                                                                                        to                                                                                                                                                                                                                                                             Ruler,                                                                                                                                                                                                                                                                              2                                                                                                                                                                                                                                  Corrupted                                                                                      one                                                                                                                                                                                                                                                      Character                                                                                                                                                                                      a                                                                                             Settlements,                                                                                                                                                                                                                                                                                                                                                                                                          [3].                                                                    North                                                                                                                                                                                          may                                                                                                                                                                                                                                                                                                                                                                                                                        instead                                                                                         samedifferentNorthNorth                                                                                                                                                                                                                                                                                                                                                                                                                                                                             rolladd                                                                                  twothe                                                                                      Leader                                                                                                                                                                                                            Dáin                                                                                  or                                                                                       unitunit                                                                                                                                                                                                                                            remove                                                           onRegularfreeRegular                                                                                                                                                                                                                                                                                              result                                                                                                                                                                                                                                                                   playerdie                                                                                                                      free.inand                                                                                                                                                                                                                                          fromPeoplesthisAction                                                                                                                             is                                                                                                                              it                                                                                                                                   if                                                                                                                                                                                                                                                                                                                                                                                               not                                                                                                                                                                                                                                                                                                                                               is                                                                                  Brand,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         is                                                                                       as                                                                                                                                                                                                                                             gureuse                                                                                                                                                                                   ﬁto                                                                                                                                                                                                                                                                                                                                                                                                                Serpent                                                                                                                                                                                                                          His                                                                                                                                                                                                                                                                                                                                                                                     Black                                                                                                                                                                                                                                                                                                                  his                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           ifAssault”,Combat—                                                                                                                                                                                                                                                                                                                                                                                                                              playing                                                                                                                                                                                                                                                             removed,and                                                                                                                                                                                                                                                                                                                                                                                                                                                       ofa                                                                                                                                                                                                                                                                                                                                                                                                                       purpose                                                                                                                                                                                                                                                                            discarded,                                                                                                                                                                                                                                                                                                                                                                                                                                the                                                                                                                                                                                                                                                                                                                                  is                                                                                                                                                                                                                                                                                                                                                                                                                                          for                                                                                                                                                                                                                                                                                     play.card                                                                                  Companion.                                                                  a                                                                                                                      is                                                                     Brand                                                                                                                                                                                                                                                     immediately                                                                             region—                                                                                                                                                                                                                                                                                                                                                                                                  White.                                                                                                                                                                                                                                                                                                                                                                                                                              the                                                                                                                                                                                                                                                       Weaknesses                                                                                                                                                                                                                                                                                                                                         TheMinionGandalf                                                                                                                                                                                                                                                                                                                                   effect.                                                                                                                                                                                                                                                                                       their                                                                                                                                                                                                                                                                               cease
+
+
+                                                                                                   KM 1/10                                                                                                                                             KM 4/10                                                                                                                                             KM 1/3
+
+     Free Peoples (5)   Free Peoples (5)    Shadow (3)
+       Awakened         Corrupted       Dark Chieftain
+      Sovereign cards     Sovereign cards          cards
+
+                         Event Cards (19)
+
+
+
+
+
+                                                                             TIME                                                                                   IN                                                                                                                                                                                            YOUR                                                                  AID                                                                                                                                                                                                                                                                                 IS                                                                   NEED                                                                    OF                                                                                                                                                                                                 WELCOME
+                                                                                                                                                                                                                  DOUBTFUL                                                                                         who                                                                                               Companions                                                                                                                                                all                                                                                            any                                                                                                                   Fellowship.                                                                                                 orthe                                                                                                         in                                                                                                                                                                                                                                                                                                                                                                              table.                                                                                                                                                                                                                                                                                                                   the                                                                                                                                                                                                                                                    on                                                                                                                                                                                                                                                                                                                                                     Free                                                                                                                                                                                                                                                                                                                                                    the                                                                                                      non-Awakened,                                                                                                                                                                                                                                                                                                                                                                                                                       play,                                                                                            one                                                                                                                                                                                                                                                                                                                                                               in                                                                                                                                                                                                                                                                                                                                                                                                                                                             is                                                                                               choose                                                                                                                                                                                                                                                                                                                                               card                                                                                                                                                                                                                                                                                                                                                                                                    this                                                                                                                       the                                                                                                                           in                                                                                                                                                                                                                                                                                                                 remove                                                                                                                                                                                                                                                                                                                                   cannot                                                                                                                                                                                                                                                                                                                                                                           player                                                                                                          and                                                                                                                                                                                                                                                                                                               and                                                                                                 Companion,                                                                                                                                                                                                                                                                                                          a                                                                                                a                                                                                                                                                                                                                                                                                                        from                                                                                                      region                                                                                                                                                                                                                                                                                                                                                                                                         his                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       if                                                                                                                          region.                                                                                                                                                                                                                                                                                                                                                       SovereignSovereign,                                                                                                                                                                                                                                                                                                         a                                                                                                                     thatSovereign                                                                                                                 asin                                                                                                                                                                                                                                                                                                        awaken                                                                                    him                                                                                                                                                                                                                                                                                                                                   only                                                                       MoveareThen,non-Corruptedsameawakennot                                                                                                                                                                                                                                                                                                                       War”.                                                                                                                                                                                                                                                                                                                                                     “at                                                                                                                                                                                                                                                                                                                                                                                                                                                     is
+                                                                                                                                                                                                                                                                                                                                                                                                                               force                                                                                                                                                                                                                                                                                                                     can                                                                                                                                                                                                                                                                                                                                                                                             Peoples                                                                                                                                                                                                                                                                                                                                                        Free                                                                                                                                                                                                                                                                                                                                                                     be                                                                                                                                                                                                                                                                                                                                                                                                   to                                                                                                                                                                                                                                                                                                                                                                                                                  Isplayer                                                                                                                                                                                                                                                                                                                  Welcome                                                                                                                                                                                                                                                                                                                                                       West                                                                                                                                                                                                                                                                                                                                                                                                 the                                                                                                                                                                                                                                                                                                                                                                                                         of                                                                                                                                                                                                                                                             a                                                                                                                                                                                                                                                                                                                                                        using                                                                                                                                                                                                                                                                                                                                                  by                                                                                                                                                                                                                                                                                                                                                      Character                                                                                                                                                                                                                                                              aWill                                                                                                                                                                                                                                                                                                                                                  Doubtful”or
+                                                                                                                                                                                                                                                                                                                                                                                                                                                     if                                                                                                                                                                                                                                                                                                                                                                                                                                           result,result                                                                                                                                                                                                                                                                                                                                                                  diedie                                                                                                                                                                                                                                                                                                                                                                     are                                                                           BANNER                                                                                                                                                                                                                                                                                                               PlayWhilePeoplesCorruptioncanNationThe“YourdiscardedActionAction                                                                                                                                                                                                                                                                                                                                                  non-CorruptedCompanion                                                                                 KING’S                                                                                                                                                                                                                                                                                    and                                                                  THE                                                                                                                                                                                                                                                                                                                                                                   Sovereign                                                                                                     an                                                                                                                                                                                                                                                                                                                                                                                                              region.                                                                                                                                                                                                                                                                                                                        same                                                                                                                                                                                                                                                              athea                                                                                                  Aragorn                                                                                                                                                                                                                                                                                                                                    in                                                                                                                                            if                                                                                                     Play                                                                                                                                                                                                                                                                                                                                                                                             together                                                                                                                Sovereign                                                                                                                                                                                                                            OF                                                                                        Awakened                                                                                                                                                                                                                                    SERVANT                                                                                                                                         battle.or                                                                                                              the                                                                                                              in                                                                                                                                                                                                        SHADOW                                                                                                                                                                                                                                           THE                                                                                                                     your                                                                                                                                    for                                                                                                                                                                                                                                                                                                                     Minion                                                                                                    Before                                                                                                                                                                                                                                                                                           Shadow                                                                                                                                                                                                                                                                                                        a                                                                                                                                                                                                                                                                                                                                                                                                                                                                    if                                                                                                                         Aragorn’s                                                                                                                                                                                                                                                                                                                                               Play                                                                                                                theforfeitis                                                                                                                                                                                                                                                                                                                                                                                                                                   battle.                                                                                                                            rollingre-roll,                                                                                                                                                                                                                                                                                                                                                          the                                                                                                                                                                                                                                                                                                                                                               in                                                                                                                                                                                                                                                                                                                                                                                                                                                   is                                                                                                Leader
+                                                                                                                                                                                                                                                                                                                                                                                    the                                                                                                                 Sovereign’s                                                                                                     the                                                                                                                                                                                                                                                                                                                                                                                                                                                                         forfeit                                                                                              or                                                                                                                            theto                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     roll,                                                                                                                                                                                                                                                                                                  Combat                                                                                                                      Leadershipdicere-roll                                                                                                                                                                                                                                                                                                                                                               the                                                                                                          Leader                                                                                                                                                                                                                                                                                                                                                            Before                                                                                                          the                                                                                                                                                                                                                                                                                                                                                  During                                                                                                            cancel                                                                                                                                                  player.of                                                                                                                                                                                                                                                                                                                       one                                                                                                                                                                                                                                                                                                                                                                       of                                                                                                 Shadow                                                                                                                                                                                                                                                                                                                                                                    Leadership                                                                                                                                                                                                                                                                                                                                                                                         Peoples                                                                                                                                                                                                                                                                                                                                                                          Free                                                                                                                                                                                                                                                                                                                                                                         theMinion.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              roll,                                                                                                                                                                                                                                                                                              Combat                                                                                                                                                                                                                                                                                                                                                                                                           his                                                                                                                                                                                                                                                                                                       minimum                                                                                                                                                                                                                                                                                                                                       a                                                                                                                                                                                                                                                                                                                                                                                               (to                                                                                                                                                                                                                                                                                                                                                                                                                                                                      less                                                                                                                                                                                                                                                                                                                                                                                        die                                                                                                                                                                                                                                                                                                                  one                                                                                                                                                                                                                                                                                                                                                                                                                                                              rolls                                                                                                                                                                                                                                                                                                                                                                                          of                                                                                                                                                                                                                                                                                                                                                                                             point                                                                                                                                                                                                                                                                                                                                                                                         every                                                                                                                                                                                                                                                                                                                                                                                                               for                                                                                                                                                                                                                                                                                                                                                 one)                                                                                                                                                                                                                                                                                                                                                                      of                                                                                                                                                                                                                                                                                                                                                                                                                                                                forfeited.                                                                                                                                                                                                                                                                                                                                                                                 Leadership
+                                                                     4                                                                                                                                                                                                                                                                                                                                                                                              player3                                                                                                                                      KM 25/24                                                                                                                                                                                                                                                                                                                                                                KM 25/24
+
+         Free Peoples (10)           Shadow (9)
+
+PAGE 5
+============================================================
+                         Chapter I: Introduction • 5
+
+
+
+
+
+               CC OO UU NN TT EE RR SS
+
+                   Kings Hunt Tiles (4)
+
+
+
+
+
+          Front                      Back
+
+      Ruler Tokens (5)             Corruptor Token
+
+
+
+
+
+   Front         Back             Front/Back
+
+
+        OTOT HH EE RR CC OO MM PP OO NN EE NN TT SS
+
+     Corruption Board             Overlay Tiles (4)
+
+
+
+
+
+         Sovereign                Helm’s Deep
+     Corruption board        Shadow Stronghold tiles
+
+  Ruler Special Action Dice             Plastic Rings (5)
+
+
+
+
+
+Free Peoples   Shadow     Corrupted Sovereign rings
+
+PAGE 6
+============================================================
+6 • War of the Ring — Kings of Middle–earth
+
+
+
+
+
+CC HH AA PP TT EE RR   II II ::
+NN EE WW RR UU LL EE SS
+
+THE RULER DICE
+
+When playing Kings of Middle-earth, each player receives a Ruler
+Special Action die. There is one Free Peoples Ruler die (light blue
+color) and one Shadow Ruler die (brown color).
+
+Ruler dice have the same symbols as normal Action dice but, when
+using them, you must use the following rules:
+
+1.    The Free Peoples player adds the Free Peoples Ruler die to their
+       dice pool in the turn after the first Sovereign is awakened (see
+      Awakening a Sovereign, page 10); the Shadow player adds the
+     Shadow Ruler die to their dice pool in the turn after the first Dark
+       Chieftain enters play (see Dark Chieftains in Play, page 14).
+
+2.   The Shadow Ruler die cannot be allocated directly to the Hunt
+     and must always be rolled.
+
+3.      If a player’s dice pool includes the Ruler die, that player must
+      choose and discard one Action die at the end of the Action
+      Roll phase — either one Standard Action die, or the Ruler die.
+
+       a.      First, the Shadow player must choose to either discard
+             the Ruler die (even if it shows an Eye), or a Standard
+            Action die that does not show an Eye. Then, they add
+             the remaining rolled Eye results to the Hunt box.
+
+      b.    Then, the Free Peoples player chooses which one of
+              their Action dice to discard.
+
+4.      If a player’s Ruler die is not discarded after the Action Roll,
+       that player can use its result as a normal Action die, or as
+       indicated in the sections Free Peoples Ruler Die, page 9,
+     and Shadow Ruler Die, page 15.
+
+5.     It is possible to change the result of a Ruler die using an Elven
+      Ring.
+
+     Note: If, during the Recover Action Dice and Draw Event
+      Cards phase, the Free Peoples player has no Awakened
+      Sovereigns in play, they must remove the Free Peoples
+      Ruler die from their Action Dice Pool. Similarly, if the
+     Shadow player has no Dark Chieftains in play at that point,
+      they must remove the Shadow Ruler die from their Action
+      Dice Pool. The die may be recovered if a new Sovereign is
+      awakened, or a new Dark Chieftain enters play.
+
+PAGE 7
+============================================================
+                             Chapter II: New Rules • 7
+
+
+
+KINGS HUNT TILES
+
+               Two new Hunt tiles are included in Kings of
+                      Middle-earth.
+
+                    These tiles are added to the Hunt Pool at
+                      the beginning of the game. If these tiles are
+drawn during the Hunt, their numerical value is applied normally.
+Their numerical value is also used when determining the effect of
+Event cards which use the value of the tile for some specific purpose
+(for example, “The Breaking of the Fellowship”, using the value to
+determine the number of Companions to separate).
+
+These tiles, however, have a specific effect when attempting to
+corrupt a Sovereign (see page 11).
+
+RULERS’ COMBAT
+SPECIAL ABILITIES
+
+Brand, Théoden, and each of the Dark
+Chieftains have one Special Ability
+that can be used in battle. Most of
+these abilities require the player to
+forfeit the effects of a Combat card to
+be activated (the Combat card must
+still be eligible to be played). Pay
+close attention to the timing of the
+activation, as it is different for different
+Characters.
+
+A Combat card whose effects have
+been so forfeited is still considered
+to be “played” for the purpose
+of other effects (for example, the
+Witch-king’s “Sorcerer” ability), but
+its effects are replaced by the effects
+indicated. Likewise, the replacement
+effects of Combat Special Abilities
+are still considered to be Combat
+card effects for the purpose of other
+effects (for example, a Dark Chieftain’s
+ability can be cancelled by the Free Peoples
+player using the Combat card “Daring
+Defiance”). The initiative number of the
+effects is indicated as a number in square
+brackets (for example, “[4]”) in the text.
+
+PAGE 8
+============================================================
+8 • War of the Ring — Kings of Middle–earth
+
+
+
+
+
+CC HH AA PP TT EE RR   II II II ::
+SS OO VV EE RR EE II GG NN SS OO FF
+TT HH EE  FF RR EE EE PP EE OO PP LL EE SS
+
+
+     From the king’s hand the black staff fell clattering on the
+        stones. He drew himself up, slowly, as a man that is stiff from
+       long bending over some dull toil. Now tall and straight he
+        stood, and his eyes were blue as he looked into the opening
+         sky. ‘Dark have been my dreams of late,’ he said, ‘but I feel
+       as one new-awakened.’.
+
+      The Two Towers, Book III, Chapter 6: The King of the
+      Golden Hall
+
+
+      he Sovereigns of the Free Peoples (not all of whom were
+        literally “kings”) were targeted by Sauron’s attempts to bend
+      the will of the Free Peoples — using the palantíri (the seeingTstones), through emissaries, like Gríma, and possibly with other
+subtle and deceitful means. At the same time, it was crucial for the
+morale of the Free Peoples to rally around these charismatic figures
+to fight against the Shadow. This is represented in the game by the
+following rules.
+SOVEREIGNS IN PLAY
+
+During the game, the Shadow player will try to corrupt the
+Sovereigns, while the Free Peoples player will try to awaken them
+before they are corrupted.
+
+—   At the start of the game, all Sovereigns are considered Free
+      Peoples Leaders. They are considered neither “Awakened”
+     nor “Corrupted”.
+        If a non-Awakened, non-Corrupted Sovereign is eliminated,
+      any Corruption tiles on him are returned to the Hunt Pool.
+
+—   Corrupted Sovereigns are considered to have Level 0 and no
+       Leadership. They cannot move and have unique Weaknesses
+       affecting the Free Peoples player, as indicated by their cards.
+
+—   Awakened Sovereigns are considered Companions (with
+      the Level and Leadership indicated by their cards) and have
+      unique Special Abilities, including Combat Special Abilities
+       (see Rulers’ Combat Special Abilities, page 7) for Brand
+      and Théoden.
+
+PAGE 9
+============================================================
+            Chapter III: Sovereigns of the Free Peoples • 9
+
+
+
+
+FREE PEOPLES RULER DIE
+       The Free Peoples Ruler die enters play after the first
+         Sovereign is Awakened by the Free Peoples player, and will
+        be added to the Action Dice Pool in the following turn.
+           It remains in (or returns to) play as long as at least one
+Awakened Sovereign is in play.
+
+When the Ruler die is in play, one Action die (either the Ruler die or
+another Action die) must be discarded after the Action Roll.
+
+The Ruler die can be used:
+
+—     as a normal Action die;
+
+—    to awaken a Sovereign, as indicated on his Awakened card;
+
+—    to activate an Awakened Sovereign’s Special Ability.
+
+Each Awakened Sovereign has two Special Abilities. The first can be
+activated with any Action die showing the appropriate result (unless
+it is a Combat Special Ability, see page 7). The second requires a
+specific result on the Ruler die; a Will of the West result on the Ruler
+die can be used to activate any such ability.
+
+
+         SS OO VV EE RR EE II GG NN SS OO FF TT HH EE  FF RR EE EE PP EE OO PP LL EE SS
+
+                                          Portrait                      1
+
+                           Name                      2
+             2 BRAND
+       1        KING OF DALE
+                                   Condition to Awaken                 the                 North                                      is active,       3   If                               you         6    3            may                  spend                          a Muster                                 Action
+                die result, or any Ruler die
+                  result, to move Brand to an
+             unconquered Free Peoples City
+              or                Stronghold and awaken him      7             First Special Ability                there.
+                      4    (with initiative number,
+       4  Heirif Brandof Bard.and a NorthOnce perArmybattle,unit                 are in a battle, after revealing                              if applicable)
+            Combat cards you may forfeit the      8
+                   effects of your Combat card to
+                 cancel the effects of the Combat
+                card played by the Shadow                 Second Special Ability                  player. [0]              5
+       5
+                Call to Arms. If the North is “At
+              War”, you may use a Muster result
+             on the Ruler                              die                                to recruit                                   one                                      North               Level               Regular                         unit or                             Leader                                          in two                                                  different                  free North Settlements, and one North      6
+               Regular unit or Leader in the same
+                region as Brand, if it is free.
+       —  Brand is a Companion.                   Leadership                      7
+
+                                   9
+                                               KM 1/10         Shadow Resistance                      8
+
+                                  Nation                      9
+
+PAGE 10
+============================================================
+10 • War of the Ring — Kings of Middle–earth
+
+
+
+
+RULER TOKENS
+There are 5 Ruler tokens, one for each Sovereign.
+
+—   When the Free Peoples player awakens a Sovereign, they get
+       his unique Ruler token.
+
+—   Each Ruler token can be used once per game, immediately
+      before the Free Peoples player takes an action with the Ruler
+       die. The Free Peoples player can use the token to change the
+      Ruler die to the result which activates the Sovereign’s second
+       Special Ability and use it immediately to activate that ability.
+
+—   The Free Peoples player cannot use both a Ruler token and an
+      Elven Ring in the same turn.
+
+                           Ruler Tokens
+
+
+
+
+
+   Brand       Dáin      Denethor    Théoden    Thranduil
+
+AWAKENING A SOVEREIGN
+
+The Free Peoples player can take the action indicated on the
+Awakened version of the card of a non-Awakened, non-Corrupted
+Sovereign (normally the use of a Muster die result, or any result
+on the Ruler die) to awaken the Sovereign, replacing the non-
+Awakened, non-Corrupted version with the Awakened one.
+
+If movement of the Sovereign is required prior to his awakening, this
+movement follows the same rules as the movement of Companions
+outside the Fellowship, using the Sovereign’s Level when Awakened.
+If this movement cannot legally end in the indicated region, the Free
+Peoples player cannot awaken that Sovereign.
+
+When a Sovereign becomes Awakened, immediately return to the
+Hunt Pool any Corruption tiles placed on his space on the Sovereign
+Corruption board, replace the grey figure of the Sovereign with the
+corresponding silver one, and add the Free Peoples Ruler die to the Free
+Peoples dice pool (if it was not already in the pool) during the Recover
+Action Dice and Draw Event Cards phase of the following turn.
+
+     Note: If a Sovereign is awakened by an Event or Combat
+      card effect (for example, the Combat card effect “There
+       Is Hope for Victory”), just follow the normal rules for
+      awakening indicated above.
+
+PAGE 11
+============================================================
+            Chapter III: Sovereigns of the Free Peoples • 11
+
+
+
+
+
+The Free Peoples player takes the Awakened Sovereign card. From
+this moment on, the Awakened abilities of the Sovereign are in effect.
+
+—   An Awakened Sovereign cannot be corrupted.
+
+—   An Awakened Sovereign is considered to be a Companion.
+
+     Note: Some of the Special Abilities of Awakened
+      Sovereigns allow a Regular unit to be replaced with an
+       Elite unit of the same Nation. If such an ability is used,
+      the Regular unit is returned to the reinforcements pool.
+     The ability cannot be used if there is no Elite unit in the
+      reinforcements pool.
+
+ATTEMPTING TO CORRUPT A
+SOVEREIGN
+If the Free Peoples player has at least one unused Action die, and
+there is more than one Eye die in the Hunt Box, instead of using an
+Action die to take an action, the Shadow player can remove one Eye
+die from the Hunt Box to attempt to corrupt a Sovereign.
+
+When this happens, follow these steps:
+
+1.   The Shadow player chooses a Sovereign not yet Awakened or
+      Corrupted, and removes an Eye from the Hunt Box to initiate
+      the corruption attempt.
+
+2.   The Shadow player draws a number of Hunt tiles equal to the
+     number of Eye dice remaining in the Hunt Box, one at a time,
+     up to a maximum of 3.
+
+3.   The Shadow player places one of the drawn Hunt tiles of his
+       choice, face down, on the appropriate space of the Sovereign
+      Corruption board. Then, the Shadow player returns any
+      remaining tiles to the Hunt Pool, after showing them to the
+      Free Peoples player. Hunt tiles placed on a Sovereign are called
+     Corruption tiles.
+
+4.   The Shadow player places the Eye die with their used Action
+       dice.
+
+As the value of Corruption tiles must remain hidden, the Free
+Peoples player is never allowed to inspect the content of the Hunt
+Pool during the game.
+
+     Note: Dice not showing an Eye added to the Hunt Box,
+      such as Character dice due to moving the Fellowship,
+       are not counted as Eyes for the purpose of Sovereign
+      corruption.
+
+PAGE 12
+============================================================
+12 • War of the Ring — Kings of Middle–earth
+
+
+
+
+
+SPECIAL CASE: EYE AND SPECIAL HUNT TILES
+If a Standard Eye tile or a Special tile is drawn during a corruption
+attempt, the Shadow player must reveal it, and draw a new tile in its
+place. All such unused tiles are returned to the Hunt Pool, without
+effect.
+
+
+SPECIAL CASE: KINGS HUNT TILES
+If a Kings Hunt tile is drawn during a corruption attempt, it is
+immediately revealed and added to the Sovereign; no further tiles
+are drawn by the Shadow player, and any other tile drawn in this
+corruption attempt is returned to the Hunt Pool. A Kings Hunt
+tile counts as “0” Corruption when added to a Sovereign. If the
+Sovereign becomes Awakened or Corrupted, any Kings Hunt tiles on
+him are returned to the Hunt Pool.
+
+
+CARD EFFECTS MANIPULATING HUNT TILES
+Corruption attempts cannot be influenced by the effect of a card
+or ability that allows a player to influence or prevent the drawing or
+redrawing of Hunt tiles (for example, “Mithril Coat and Sting” does
+not allow redrawing a tile during a corruption attempt).
+
+CORRUPTION LEVEL AND
+CORRUPTION OF A SOVEREIGN
+The Corruption Level of a Sovereign is equal to the total numerical
+value of all tiles placed on his space on the Sovereign Corruption
+board (with Kings Hunt tiles counting as 0). Since the tiles are placed
+face down, the Corruption Level of a Sovereign is hidden from the
+Free Peoples player (they only know the number of tiles) but can be
+checked by the Shadow player at any time.
+
+The same Sovereign may not be targeted by a corruption attempt
+twice in the same turn except when using an Event card.
+
+A Sovereign becomes Corrupted when his Corruption Level equals
+or exceeds his Shadow Resistance. When this happens, the Shadow
+player must reveal all tiles on the Sovereign’s space on the Sovereign
+Corruption board, discard the highest numbered Standard tile, and
+return the other tiles (including any Kings tiles) to the Hunt Pool.
+
+     Note: In case of a tie, a tile with a Reveal icon is considered
+      to be higher numbered than a tile without one.
+
+Remove the grey figure of the Sovereign from the game board, then
+take the corresponding silver one, add a Corrupted Sovereign ring
+around its base to mark his status, and place it in the region indicated
+
+PAGE 13
+============================================================
+           Chapter III: Sovereigns of the Free Peoples • 13
+
+
+
+
+
+on the Corrupted version of his card. The Shadow player takes the
+Corrupted Sovereign’s card. From this moment on, the Weaknesses
+of the Corrupted Sovereign are in effect.
+
+—  A Corrupted Sovereign cannot be awakened.
+
+—  A Corrupted Sovereign is no longer considered to be a
+      Free Peoples Leader. His effect in the game is limited to
+      the Weaknesses indicated on his card, and to his influence
+     on cards referring to “Sovereigns” and “Corrupted
+      Sovereigns”. He cannot be used to activate any effect
+      or satisfy any requirement referring to “Companions”,
+      “Characters”, or “Minions”.
+
+—  A Corrupted Sovereign is eliminated only according to
+      the rules in Removing a Corrupted Sovereign from Play (see
+      below). The Weaknesses of a Corrupted Sovereign cease to
+      have effect if he is eliminated.
+
+REMOVING CORRUPTION
+FROM A SOVEREIGN
+If a Nation is activated or its Political Track advances, and an
+appropriate Companion (that is, a Companion with the icon of
+that Nation, or the Free Peoples icon) is in the same region as the
+non-Awakened, non-Corrupted Sovereign of that Nation, the Free
+Peoples player can discard one hidden Corruption tile, randomly
+chosen, from that Sovereign’s space on the Sovereign Corruption
+board, returning the tile to the Hunt Pool. Certain Event cards also
+allow the removal of Corruption tiles.
+
+REMOVING A CORRUPTED
+SOVEREIGN FROM PLAY
+When an appropriate Companion (that is, a Companion with the icon
+of the same Nation, or the Free Peoples icon) is in the same region as
+a Corrupted Sovereign, the Free Peoples player can use a Character
+Action die to remove that Sovereign from play.
+
+When this happens, the Sovereign’s figure is removed, his card is
+discarded, and his Weaknesses immediately cease their effects.
+
+This is the only way to remove a Corrupted Sovereign from play,
+except through the use of Event cards. A Corrupted Sovereign is not
+affected by the outcome of a battle in his region — so, for example,
+he remains in play even if a Free Peoples Army in the same region is
+completely eliminated in battle.
+
+PAGE 14
+============================================================
+14 • War of the Ring — Kings of Middle–earth
+
+
+
+
+
+CC HH AA PP TT EE RR   II V:V:
+DD AA RR KK CC HH II EE FF TATA II NN SS
+
+
+     Not all his servants and chattels are wraiths! There are orcs
+     and trolls, there are wargs and werewolves; and there have
+      been and still are many Men, warriors and kings, that walk
+       alive under the Sun, and yet are under his sway. And their
+     number is growing daily.’
+
+      The Fellowship of the Ring, Book II, Chapter 1: Many
+      Meetings
+
+
+       his expansion adds new characters, the Dark Chieftains, to
+      the Shadow hosts. Unlike the Ringwraiths, who were fully
+      controlled by the One Ring, these powerful leaders of theTShadow Armies had distinct personalities, but ultimately all were
+subject to the commands of Sauron or Saruman.
+DARK CHIEFTAINS IN PLAY
+
+—   Each Dark Chieftain belongs to a different Shadow Nation:
+     The Shadow of Mirkwood to Sauron, Uglúk to Isengard,
+      and The Black Serpent to the Southrons & Easterlings. They
+       are considered Non-Flying Minions (see definition in the
+       sidebar on page 15).
+
+—   The Shadow player can take the action indicated on the card of
+       a Dark Chieftain (normally, the use of a Muster die result, or
+       of any result on Ruler die, except an Eye result) to bring him
+       into play.
+
+—    Follow the instructions on the Dark Chieftain’s card to place
+     him on the board. The Shadow player can now start to use the
+       Character’s abilities.
+
+—   Dark Chieftains add to the Leadership of Shadow Armies they
+       are in, and they each also have one unique Combat Special
+       Ability (see Rulers’ Combat Special Abilities, page 7),
+       applied only to the Army they are in. Uglúk has an additional
+       Special Ability that applies to the Hunt.
+
+—    Free Peoples and Shadow cards referring to “Minions” affect
+      and are affected by Dark Chieftains; however, these characters
+       are not considered Minions for the purpose of playing Gandalf
+      the White.
+
+PAGE 15
+============================================================
+                        Chapter IV: Dark Chieftains • 15
+
+
+
+
+
+  NON-FLYING MINIONS
+   The Dark Chieftains are not able to fly like the Nazgûl (and the
+    Witch-king), and for this reason they are considered as Non-flying
+   Minions. They are of a different, and lower, status in comparison
+    to normal Minions (included in War of the Ring) and lesser Minions
+    (included in Lords of Middle-earth) because they do not add an
+    Action die (however, the Shadow Ruler die is used when they are in
+    play). These characters move with the same limitations as the Mouth
+    of Sauron, the only Minion of this type in War of the Ring, which are
+    repeated here.
+
+  A Non-flying Minion:
+
+  —      If moving without an Army, can move a number of regions up
+           to his Level, and ignores any enemy Army;
+
+  —    Cannot cross impassable terrain;
+
+  —    Cannot leave or enter a region that contains a friendly
+          Stronghold besieged by an enemy Army;
+
+  —      If moving without an Army, cannot be moved into a
+          Stronghold controlled by the Free Peoples, unless it is
+           besieged by a Shadow Army.
+
+
+SHADOW RULER DIE
+       The Shadow Ruler die enters play after the first Dark
+         Chieftain enters play, and will be added to the Action Dice
+        Pool in the following turn. It remains in (or returns to) play
+          as long as at least one Dark Chieftain is in play.
+
+The Shadow Ruler die cannot be allocated directly to the Hunt Box
+and must always be rolled during the Action Roll phase.
+
+When the Ruler die is in play, one Action die (either the Ruler die
+or another Action die) must be discarded after the Action Roll. The
+Shadow player may always choose their Ruler die as the die to be
+discarded, even if it shows an Eye result.
+
+The Shadow Ruler die can be used:
+
+—     as a normal Action die;
+
+—    to play a Dark Chieftain, as indicated on his card.
+
+PAGE 16
+============================================================
+16 • War of the Ring — Kings of Middle–earth
+
+
+
+
+
+CC HH AA PP TT EE RR V:V:
+VAVA RR II AA NN TT SS
+
+PLAYING WITH 3 OR 4 PLAYERS
+
+When playing Kings of Middle-earth with 3 or 4 players, use the
+following rules.
+
+FREE PEOPLES
+—   A Sovereign can only be awakened by the player controlling
+      the corresponding Nation.
+
+—   The abilities of an Awakened Sovereign can only be used by
+      the player controlling the corresponding Nation.
+
+—    Corruption can be removed by either Free Peoples player.
+
+—   A Corrupted Sovereign can be removed by either Free Peoples
+       player.
+
+SHADOW
+—   Both Shadow players can attempt to corrupt any Sovereign.
+
+—     If multiple attempts to corrupt Sovereigns are made in a turn,
+      the Shadow players must alternate between performing the
+      attempts. Use the Corruptor token as a reminder of the last
+       player who performed a corruption attempt. Either player
+     may be the first to initiate a corruption attempt in each turn,
+       regardless of the last player to do so (if any) in the previous
+       turn.
+
+—   Only one corruption attempt per Sovereign (except when
+      using Event cards) may be done between the Shadow players
+      each turn.
+
+—   A Dark Chieftain can only be played by the player controlling
+      the corresponding Nation.
+
+PAGE 17
+============================================================
+                               Chapter V: Variants • 17
+
+
+
+PLAYING WITH OTHER
+EXPANSIONS
+
+You can play Kings of Middle-earth together with the base War of the
+Ring game using the rules explained in the previous pages. Expert
+players who want to combine it with other expansions can use the
+following rules.
+
+DISMAY TOKENS
+This rule is optional, but recommended, for use when playing Kings
+of Middle-earth together with Lords of Middle-earth and/or Warriors
+of Middle-earth.
+
+      When a Ruler token is used, or when an Awakened
+        Sovereign who did not use his token is eliminated from play,
+         the Shadow Player receives that Sovereign’s Ruler token,
+          flipping it to its “Dismay” side.
+
+         After the Action Roll phase, the Shadow player can use a
+       Dismay token to either re-roll their own Ruler die or force
+         the Free Peoples player to re-roll their Ruler die. The token
+is then removed from the game.
+
+LORDS OF MIDDLE-EARTH
+—   When selecting the die to discard during the Action Roll
+      phase, a player can only discard a normal Action die, or the
+      Ruler die. A player cannot discard a Keeper or Lesser Minion
+       die in this way.
+
+—    Sméagol tiles are ignored and redrawn during a corruption
+      attempt, similarly to Special tiles.
+
+—    Dice added to the Hunt Box due to the effect of the “Captain
+       of Despair” Event card are not counted for the purpose of
+      Sovereign corruption — they cannot be discarded to attempt
+      the corruption of a Sovereign, and do not add to the number
+       of tiles drawn in the attempt. To keep track of these dice, place
+      the ones added by the “Captain of Despair” effect in the right
+       half of the Hunt Box and the “normal” Hunt dice in the left
+        half.
+
+—   Eye results rolled on Keeper and/or Lesser Minion dice
+       are counted normally when making a corruption attempt.
+        If removed from the Hunt Box to initiate an attempt, they
+       are placed with the Free Peoples player’s used Action dice
+       afterwards.
+
+PAGE 18
+============================================================
+18 • War of the Ring — Kings of Middle–earth
+
+
+
+
+
+—     If you use the Council of Rivendell rules:
+
+   —    the Shadow player may spend an Action token together
+             with any eligible Action die result to play one Dark
+              Chieftain, even if his normal prerequisite has not been met;
+
+   —     characters without a Nation icon cannot remove
+            Corruption from a Sovereign, or remove a Corrupted
+             Sovereign from play. For example, Boromir, Captain
+             General of Gondor cannot remove Corruption from
+           Denethor or remove Denethor, Corrupted Ruler from play.
+
+WARRIORS OF MIDDLE-EARTH
+—   When selecting which die to discard during the Action Roll
+      phase, a player can only discard a normal Action die or the
+      Ruler die. A player cannot discard a Faction die in this way.
+
+—   You cannot forfeit a the effect of a Call to Battle card to
+       activate the Combat Special Ability of Brand or a Dark
+       Chieftain (see Rulers’ Combat Special Abilities, page 7).
+
+FATE OF EREBOR
+Dáin and Brand are not used. There is no King under the Mountain,
+and Dale is in ruins. Do not replace “Dain Ironfoot’s Guard” and
+“King Brand’s Men” with the new Event cards included in this set.
+COMPETITIVE/TOURNAMENT
+RULES
+
+The following rules have been proposed as variants by experienced
+tournament players, and you may consider adding them to your games:
+
+—    Visible Corruption tiles. Do not place Corruption tiles on a
+      Sovereign face down: they remain visible to all players. When using
+        this rule, if a card effect refers to “hidden Corruption tiles”, read
+        this as meaning “any Corruption tiles other than Kings tiles”.
+
+—    Sequential Corruption tile draw. The Shadow player can
+      decide to stop drawing tiles in a corruption attempt when they
+      want (up to the maximum allowed). The last tile to be drawn
+     must be used.
+
+—   Removing Ruler tokens. When playing Kings of Middle-
+      earth together with Lords of Middle-earth and/or Warriors
+        of Middle-earth, do not use Ruler tokens. Dismay tokens will
+      only be granted to the Shadow player when an Awakened
+      Sovereign is eliminated.
+
+PAGE 19
+============================================================
+            Chapter VI: Card Replacement Reference • 19
+
+
+
+
+
+CC HH AA PP TT EE RR VV II ::
+CC AA RR DD RR EE PP LL AA CC EE MM EE NN TT
+RR EE FF EE RR EE NN CC EE
+
+
+LORDS OF MIDDLE-EARTH
+
+ Title                                    Type     Number
+ A Balrog is Come                            Character       17
+
+WARRIORS OF MIDDLE-EARTH
+
+ Title                                    Type     Number
+ The Western Way                             Character       15
+ Premonition of Danger                       Character       18
+ Swift Boats                                  Character       19
+ Majesty and Glory                           Character       20
+ Take Someone You Can Trust                Character       21
+ Long Battle                                  Character       22
+ Not on Anybody’s Side                       Character       1
+ Strongly Guarded                               Strategy       10
+ Great Winged Creatures                        Strategy       11
+
+KINGS OF MIDDLE-EARTH
+
+ Title                                    Type     Number
+ House of the Stewards                       Character       23
+ Wisdom of Elrond                              Strategy        8
+ Riders of Théoden                              Strategy       16
+ King Brand’s Men                              Strategy       19
+ Dáin Ironfoot’s Guard                         Strategy       22
+ Thranduil’s Archers                            Strategy       24
+ Return to Valinor                               Strategy        1
+ Denethor’s Folly                                Strategy        3
+ Threats and Promises                           Strategy        5
+ Stormcrow                                      Strategy        6
+ The King is Revealed                           Strategy       18
+
+PAGE 20
+============================================================
+             A game by ROBERTO DI MEGLIO,
+        MARCO MAGGI and FRANCESCO NEPITELLO
+
+
+
+
+
+                                                                                   TM
+
+
+
+             Game Design ROBERTO DI MEGLIO,
+        MARCO MAGGI and FRANCESCO NEPITELLO
+                           Art JOHN HOWE
+           Art Direction & Graphic Design FABIO MAIORANA
+                        Sculptures BOB NAISMITH
+                     Photos CHRISTOPH CIANCI
+         Production ROBERTO DI MEGLIO and FABRIZIO ROLLA
+
+
+                      ENGLISH EDITION
+                       Editing KEVIN CHAPMAN
+                        Layout HONDA EIJI
+
+
+Playtesting: Brad Archer, Gabriel Bengtsson, Kristofer Bengtsson, Rafael Brinner, Kevin Chapman,
+ Melanie Chapman, Andrea Corcella, Tim Cottrell, Caleb Dexter, Jason Dexter, Daniel Eppacher,
+Ira Fay, Steve Fratt, Jean-Paul Horton, Moses Kim, Heikki Laakkonen, Maria Makhov, Jake McRae,
+ Bob Menkveld, Mestre James, Paul Miller, Andrei Munteanu, Gabriele Pacciani, Andrew Poulter,
+    Leonardo Rina, Giuseppe Rociola, Ralf Schemmann, Oliver Strycharz, Andrew Summers,
+   Sven Tscheppainz, Markku Utriainen, Larry Wakowenko, Roy Wiseman, and Riccardo Zerbo.
+       Special Thanks to Andrew Poulter and Andrei Munteaunu for their assistance to the
+    playtesting process, Franco Rivolli for the Corruption icon, Rafael Brinner, Andrea Corcella,
+    and Heikki Laakkonen for their careful revision, and to all the War of the Ring players who
+                                  patiently waited for this expansion!
+
+
+
+
+
+      A Game Created, Published and Distributed Worldwide by
+                     ARES GAMES SRL
+
+
+
+
+     Via dei Metalmeccanici 16, 55041, Capezzano Pianore (LU), Italy.
+                          www.aresgames.eu.
+
+
+
+The War of the Ring, Kings of Middle-earth, and The Lord of the Rings and the names of the
+characters, places, items and events therein are trademarks of Middle-earth Enterprises, LLC, used
+under license by Sophisticated Games and its authorized sub-licensees. All
+rights reserved. War of the Ring Boardgame © 2012, 2023 Ares Games Srl.
+© 2012, 2023 Sophisticated Games Ltd. Warning. Not suitable for
+children under three years. Small parts. Choking hazard. Made in China.Retain this information for your records.                                                                                                                                                                                                                                                                               2023.08.10
+                                            —
+                                                                                                                                   1.0
+                                                                                                                                                                                                                                                                                                                 Version

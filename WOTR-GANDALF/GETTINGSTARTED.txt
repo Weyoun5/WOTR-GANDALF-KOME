@@ -1,0 +1,13 @@
+WAR OF THE RING - KINGS OF MIDDLE-EARTH CLIENT
+
+1. Extract the entire ZIP. Keep the WOTR-GANDALF subfolders intact.
+2. Install Java 8 or newer if it is not already installed.
+3. Open WOTR-GandalfV8-KoME.jar, or use Start-KoME.cmd on Windows.
+4. Choose New Game > Kings of Middle-earth, then Kings alone or Kings + Lords.
+
+The sovereign board opens automatically. Ctrl+K reopens it.
+Both players should use the same release and choose the same game type.
+
+This package contains no personal preferences or saved logs. The first launch
+creates fresh settings and the folders used for new game logs.
+See README-KoME.txt for controls and expansion details.
