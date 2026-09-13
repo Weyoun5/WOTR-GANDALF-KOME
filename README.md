@@ -2,6 +2,12 @@
 
 War of the Ring Java client with **Kings of Middle-earth** and **Kings + Lords of Middle-earth** game options.
 
+## Unofficial fan-made project
+
+This is an unofficial, fan-made community project. We do not claim ownership of War of the Ring, Kings of Middle-earth, Lords of Middle-earth, Middle-earth, the original Java client, or any associated rules, artwork, names, characters, or other third-party materials. All rights remain with their respective owners.
+
+This project is not affiliated with, endorsed by, or sponsored by the original creators, publishers, or rights holders.
+
 ## Run
 
 1. Download this repository using **Code > Download ZIP**, then extract it.

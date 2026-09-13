@@ -1,5 +1,13 @@
 KINGS OF MIDDLE-EARTH FOR THE WOTR JAVA CLIENT
 
+UNOFFICIAL FAN-MADE PROJECT
+  This is an unofficial, fan-made community project. We do not claim ownership
+  of War of the Ring, Kings of Middle-earth, Lords of Middle-earth, Middle-earth,
+  the original Java client, or any associated rules, artwork, names, characters,
+  or other third-party materials. All rights remain with their respective owners.
+  This project is not affiliated with, endorsed by, or sponsored by the original
+  creators, publishers, or rights holders.
+
 Start
   Open WOTR-GandalfV8-KoME.jar. Start-KoME.cmd is an optional launcher that
   ensures the client starts in its asset folder.
