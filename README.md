@@ -12,7 +12,7 @@ This project is not affiliated with, endorsed by, or sponsored by the original c
 
 1. Download this repository using **Releases > Download ZIP**, then extract it.
 2. Open the `WOTR-GANDALF` folder. Keep its asset subfolders intact.
-3. With Java 8 or newer installed, open `WOTR-GandalfV8-KoME.jar`. On Windows, `Start-KoME.cmd` is an alternative launcher.
+3. With Java 8 or newer installed, open `WOTR-GandalfV8-KoME.jar`.
 4. Choose **New Game > Kings of Middle-earth**, then Kings alone or Kings + Lords.
 
 The sovereign board opens automatically
