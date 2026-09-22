@@ -18,17 +18,3 @@ See [CREDITS.md](CREDITS.md) and the unchanged [original client README](WOTR-GAN
 4. Choose **New Game > Kings of Middle-earth**, then Kings alone or Kings + Lords.
 
 The sovereign board opens automatically. The client supplies pieces and play tools; players apply the game rules.
-
-## Combat cards and multiplayer
-
-Adds an **Autoreveal Combat cards** checkbox with the **F3** shortcut. It is enabled by default and synchronized between players. Turn it off to keep chosen combat cards hidden while resolving intervening abilities, then press **F2** to reveal.
-
-Multiplayer now checks that both players use the same KoME gameplay build before connecting. Older releases without this check are incompatible with this build.
-
-Fixes several multiplayer freeze conditions involving secure dice rolls, chat typing, and UI updates.
-
-Turning the checkbox back on does not immediately reveal cards already waiting. On keyboards that reserve function keys for system controls, use Fn with the function key or use the menu. An unresponsive secure roll is cancelled after 30 seconds; reconnect before trying again. Cancelled rolls do not produce a verified result.
-
-## Source and build files
-
-[source/](source/) contains the decompiled original client, the KoME Java sources, and the build tools used for this client. See [source/README.md](source/README.md) for the reproducible build procedure and the limitations of the decompiled listing. Original copyright notices and rights remain applicable.
