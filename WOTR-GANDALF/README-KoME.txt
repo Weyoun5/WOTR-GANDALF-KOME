@@ -1,115 +1,35 @@
-KINGS OF MIDDLE-EARTH FOR THE WOTR JAVA CLIENT
+WOTR-GANDALF-KOME
 
-UNOFFICIAL FAN-MADE PROJECT
-  This is an unofficial, fan-made community project. We do not claim ownership
-  of War of the Ring, Kings of Middle-earth, Lords of Middle-earth, Middle-earth,
-  the original Java client, or any associated rules, artwork, names, characters,
-  or other third-party materials. All rights remain with their respective owners.
-  This project is not affiliated with, endorsed by, or sponsored by the original
-  creators, publishers, or rights holders.
+Unofficial, fan-made Kings of Middle-earth adaptation of the War of the Ring Java client.
 
-Start
-  Open WOTR-GandalfV8-KoME.jar. Start-KoME.cmd is an optional launcher that
-  ensures the client starts in its asset folder.
-  Under New Game, open Kings of Middle-earth and choose:
-    Kings of Middle-earth
-    Kings + Lords of Middle-earth
-  The sovereign corruption board opens in its own window automatically.
-  Ctrl+K or Kings > Sovereign corruption board reopens it.
-  The main window keeps just Free, Shadow, and The Hunt.
-  The board has three sections: Sovereigns, Kings Reference, and Rules.
-  Use each sovereign's Corruption tiles button to draw or manage tiles.
-  Kings Reference on the board contains all 13 ability sheets; click one
-  to read its full-size original art. No duplicate sheets are in reserves.
+RUN
+With Java 8 or newer installed, open WOTR-GandalfV8-KoME.jar. Keep this folder and its asset subfolders together. From a terminal opened in this folder, you can also run:
+  java -jar WOTR-GandalfV8-KoME.jar
 
-Components
-  Regular sovereigns start at Brand: Dale; Dain: Erebor; Denethor: Minas
-  Tirith; Theoden: Edoras; Thranduil: Woodland Realm.
-  Five Awakened figures, the FP Ruler die, and the five ruler tokens start
-  in Free Peoples reinforcements. Five Corrupted figures, the Shadow Ruler
-  die, the three Dark Chieftains, and the Corruptor counter start in Shadow
-  reinforcements.
-  Awaken and Corrupt pull the appropriate physical figure from reserves
-  into the sovereign's current location. The outgoing figure returns to
-  its side's reinforcements. Regular swaps the original figure back in.
-  Move sovereign figures with the normal client drag controls.
-  Awakened sovereigns use their nation colors: Brand blue, Dain brown,
-  Denethor dark blue, Theoden dark green, and Thranduil green.
-  Neutral figures have a gray wash that retains a subtle nation tint.
-  Corrupted figures are black with charcoal highlights and red base rims.
-  Awakened figures have gold base rims. Names also identify the current form.
-  Kings Reference has five Awakened sovereign ability sheets, five Corrupted
-  sovereign ability sheets, and the Black Serpent, Shadow of Mirkwood, and
-  Ugluk ability sheets. Tokens, dice, Corruptor counter, and Helm's Deep
-  overlay are available in the normal reinforcements areas.
+Choose New Game > Kings of Middle-earth, then Kings alone or Kings + Lords.
+The sovereign board opens automatically. Players apply the rules themselves.
+Use the physical game and official rulebooks for rules and character abilities.
 
-  The two Kings Hunt tiles start in the Hunt Pool. The 19 core event cards
-  are installed in the native decks: 11 replacements and 8 additions.
-  Character and Strategy event cards use the correct Free Peoples or Shadow
-  deck and exactly the same small/full backs as the original cards there.
-  Full event cards match the client's 192 x 352 faces; compact cards are
-  112 x 42, using the original small-card backgrounds and type symbols,
-  with bold small-cap event/combat titles and the combat number.
-  See kome/CARD-REPLACEMENTS.txt for the rulebook's 11 replacements.
-  The workshop's two promotional cards are preserved in the export folders
-  but are not part of the default decks.
+COMBAT CARDS
+Autoreveal Combat cards is enabled by default. Toggle the checkbox beside the combat-card controls, or press F3, to change the shared setting. With it off, both players can choose cards without revealing them. Resolve intervening abilities, then use F2 to reveal. Turning autoreveal on does not reveal already waiting cards. On some keyboards use Fn with F2/F3, or the menu.
 
-Sovereign corruption
-  Take the Shadow seat with the client's usual controls to inspect hidden
-  corruption. Use Corruption tiles beside the ruler on the sovereign board.
-  Draw one to three tiles, choose one to keep, and return the others.
-  Tiles are removed from the shared Hunt Pool while drawn or held.
-  Returned tiles are announced to both players; kept Kings tiles are public.
-  Reveal, hide, return, or discard individual tiles with the panel controls.
-  Draw one at a time when applying stopping or redraw rules. Players handle
-  special tiles, Smeagol tiles, and card effects using these manual controls.
-  Awakening or changing status does not automatically return/discard tiles.
-  Use Return all tiles or the individual controls as appropriate.
+MULTIPLAYER
+Both players must use the same KoME gameplay build. A version check runs before multiplayer begins; older builds without the check are incompatible.
 
-Dice and tokens
-  Drag ruler dice from reinforcements to the dice pools; roll them with the
-  client's normal Roll command. Move used dice with the normal controls.
-  Players decide when dice enter/leave play and which die to discard.
-  In the combined mode, flip a spent ruler token to Dismay and move it to
-  Shadow. Move a spent Dismay token out of play and reroll normally.
-  Dismay is the recommended optional rule and can simply be left unused.
-  Normal Flip turns a ruler token into its Dismay side, and flips it back.
-  Move a ruler token back to reinforcements and flip it back when needed.
+Secure-roll dialogs close safely when a roll finishes or the connection ends. Typing notifications use the networking worker. An unresponsive secure roll is cancelled after 30 seconds; reconnect before trying again. Cancelled rolls do not produce a verified result.
 
-Kings + Lords
-  The original LoME implementation supplies its pieces, decks, dice and
-  companion selection. The Rules tab includes KoME pages 17-18:
-    - Dismay tokens.
-    - Only normal Action dice or the Ruler die qualify for the roll discard.
-    - Smeagol tiles are ignored and redrawn for corruption.
-    - Captain of Despair dice do not count for corruption: keep them separate.
-    - Keeper / Lesser Minion Eyes count; when spent for corruption they go
-      to the Free Peoples player's used dice.
-    - Council Action tokens can bypass Dark Chieftain entry prerequisites.
-    - Characters without a Nation icon cannot remove sovereign corruption
-      or eliminate Corrupted Sovereigns.
-  These are manual tools; the client does not adjudicate game rules.
+DISPLAY
+View > Set Zoom Level changes the map zoom, not the resolution of the whole application. There is no client preference for global Retina/HiDPI rendering.
 
-Saving, undo and multiplayer
-  Save and load through the normal client menus. Start the matching game
-  type before loading a save. A mismatch is rejected before loading.
-  Use Undo Kings action for actions made through the Kings panel.
-  The normal undo controls handle normal client actions.
-  Both players need the KoME JAR and the kome asset folder, and must choose
-  the same game type and build. Saves made before physical reserve figures
-  were added require the earlier pre-reserve client, not included here.
-  Start a new game in the current JAR to use the physical reserve figures.
-  Saves from the reserve-figure build remain compatible with this UI/art
-  update. Redundant reference-sheet copies are removed when those saves load.
-  Share the complete WOTR-GANDALF folder, omitting your
-  personal preferences and logs when preparing a copy for another player.
-  Hidden corruption is concealed in the UI; the command log contains tile
-  identifiers, as this is a manual tabletop tool rather than a new secure
-  hidden-information protocol.
+FILES
+Assets must remain alongside the JAR. The included preferences can be changed normally in the client. Logs are generated during use. Source and build files are in the repository's source folder; they are not needed to play.
 
-Files
-  WOTR-GandalfV8-KoME.jar is the current client. Keep all supplied asset folders.
-  kome/ contains the KoME artwork and rulebook. README.pdf is the original
-  client manual. The game creates fresh preferences and log folders on launch.
-  No personal preferences, saved logs, old JARs or development files are included.
-  Java 8 or newer is required.
+CREDITS
+War of the Ring and its expansions: Ares Games. Game design: Roberto Di Meglio, Marco Maggi, and Francesco Nepitello. Game components and artwork remain the property of their respective rights holders, including Ares Games SRL and Sophisticated Games Ltd.
+
+Original Java client: Sean McCarthy (original programming), Andrew Poulter (additional programming), and Peter Majek (additional programming).
+Original notice: (c) 2004-2017 Sean McCarthy/Andrew Poulter/Peter Majek.
+
+KoME component source: devkev's scripted War of the Ring Tabletop Simulator workshop addon. Underlying game artwork and components remain with their rights holders.
+
+See CREDITS.md and the unchanged README.pdf, pages 11-13, for further acknowledgements and historical notices. We claim no ownership of the original client or third-party materials. This unofficial project is not affiliated with, endorsed by, or sponsored by the original creators, publishers, or rights holders. Please support the creators by purchasing the physical game and expansions.
