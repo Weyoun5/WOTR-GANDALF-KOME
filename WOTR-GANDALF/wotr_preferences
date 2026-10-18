@@ -13,7 +13,7 @@
 ;lastPasswordUsed - a record of the last password you used in case you forget it (I know I have)
 
 nick:Player
-zoom:110
+zoom:130
 zoomLevels:80,90,100,110,120,130,140,150,200
 winx:1936
 winy:1048
@@ -39,7 +39,7 @@ flashOptional:5
 translation:ENGLISH[en]
 shortGroupDesc:false
 lastPasswordUsed:free
-lastGame:newKOME
+lastGame:newWOTR:5
 horizontalSpacing:2
 verticalSpacing:2
 myChatColour:0,0,255

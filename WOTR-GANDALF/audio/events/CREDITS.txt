@@ -1,0 +1,39 @@
+Event cues extracted from the user-downloaded War of the Ring 2E (Scripted by DevKev), Steam Workshop item 1831369203.
+https://steamcommunity.com/sharedfiles/filedetails/?id=1831369203
+Sound Cube asset: https://steamusercontent-a.akamaihd.net/ugc/5848561406500821546/E8BE4507304F8A5FF420D47C9BD3ECAD18ED791F/
+The music, performances, voices, and recordings remain the property of their respective copyright owners. No ownership is claimed.
+Legacy cues use 22050 Hz mono PCM; upgraded Smeagol, Balrog, Elrond, Galadriel and lesser-minion clips use 48000 Hz stereo PCM for Java 8 playback. Trigger IDs and names are documented in manifest.json.
+
+Replacement film dialogue (source timings in manifest.json):
+9: Gandalf - At the Turn of the Tide
+https://www.youtube.com/watch?v=0lhHDXimoLc [281.10-286.80 seconds]
+16: Smeagol - Follow Me
+https://www.youtube.com/watch?v=6LAw2pMWKEo [110.45-118.80 seconds]
+18: Isengard - Machine of War
+https://www.youtube.com/watch?v=7Y37OqrbUoE [95.00-101.50 seconds]
+19: Sauron - War
+https://www.youtube.com/watch?v=UaJZLKT4qr0 [12.00-21.00 seconds]
+20: Rohan - Forth Eorlingas
+https://www.youtube.com/watch?v=7lwJOxN_gXc [215.00-223.00 seconds]
+22: Elves - War
+https://www.youtube.com/watch?v=GqIMhrS14B0 [17.00-23.00 seconds]
+28: Balrog Roar
+https://www.youtube.com/watch?v=DgNrvnY1mo0 [114.10-118.65 seconds]
+29: Elrond - Unite or Fall
+https://www.youtube.com/watch?v=g8LQUVWCcoo [12.90-16.30 seconds]
+30: Galadriel - A Light in Dark Places
+https://www.youtube.com/watch?v=bgG92ok4S50 [19.35-28.00 seconds]
+42: Brand-Awakened
+https://www.youtube.com/watch?v=WYi4Bp1hmC0 [123.35-130.75 seconds]
+51: Thranduil-Corrupted
+https://www.youtube.com/watch?v=FtJRmnmGP0U [9.70-14.75 seconds]
+52: Black Serpent - Haradrim Charge
+https://www.youtube.com/watch?v=Jl8TiA3RwIY [52.10-55.00 seconds]
+53: Shadow of Mirkwood
+https://www.youtube.com/watch?v=KnD_NkGTEXo [23.38-30.56 seconds]
+54: Ugluk - Meat Is Back on the Menu
+https://www.youtube.com/watch?v=ufFOghMt1yI [142.85-147.40 seconds]
+North at war uses the instrumental Music Journey cue from the credited Workshop Sound Cube. Brand awakening retains the rallying speech.
+Voice/event cues are matched to -16.99 LUFS at stereo playback: -20 LUFS for mono assets duplicated to both speakers, and -16.99 LUFS for stereo assets. Peaks retain headroom; no fade-outs are added. Horns are trimmed from Thranduil and Theoden awakening. Thranduil awakening ends after "I hear of it."
+Theoden corruption is boosted by 3 dB relative to the common target and ends 0.5 seconds after "hate."
+All copyrights remain with the original owners; no ownership is claimed.
