@@ -52,10 +52,11 @@
     "name": "Nazgul Scream",
     "file": "08-nazgul-scream.wav",
     "duration": 3.1085714285714285,
-    "fade_out_seconds": 0,
-    "loudness_lufs": -20.01,
-    "true_peak_dbtp": -9.94,
-    "playback_stereo_lufs": -17.0
+    "fade_out_seconds": 0.65,
+    "loudness_lufs": -20.0,
+    "true_peak_dbtp": -9.93,
+    "playback_stereo_lufs": -16.99,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 9,
@@ -65,70 +66,77 @@
     "source": "https://www.youtube.com/watch?v=0lhHDXimoLc",
     "source_start": 281.1,
     "source_end": 286.8,
-    "fade_out_seconds": 0,
-    "loudness_lufs": -19.99,
-    "true_peak_dbtp": -2.16,
-    "playback_stereo_lufs": -16.98
+    "fade_out_seconds": 0.65,
+    "loudness_lufs": -20.09,
+    "true_peak_dbtp": -2.49,
+    "playback_stereo_lufs": -17.08,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 10,
     "name": "Saruman New Power",
     "file": "10-saruman-new-power.wav",
     "duration": 9.396009070294784,
-    "fade_out_seconds": 0,
+    "fade_out_seconds": 0.65,
     "loudness_lufs": -20.0,
     "true_peak_dbtp": -2.78,
-    "playback_stereo_lufs": -16.99
+    "playback_stereo_lufs": -16.99,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 11,
     "name": "Saruman No Dawn",
     "file": "11-saruman-no-dawn.wav",
     "duration": 3.8880272108843537,
-    "fade_out_seconds": 0,
-    "loudness_lufs": -20.07,
-    "true_peak_dbtp": -2.5,
-    "playback_stereo_lufs": -17.06
+    "fade_out_seconds": 0.65,
+    "loudness_lufs": -20.01,
+    "true_peak_dbtp": -2.37,
+    "playback_stereo_lufs": -17.0,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 12,
     "name": "Saruman Work to Do",
     "file": "12-saruman-work-to-do.wav",
     "duration": 2.2319727891156464,
-    "fade_out_seconds": 0,
-    "loudness_lufs": -19.98,
-    "true_peak_dbtp": -2.37,
-    "playback_stereo_lufs": -16.97
+    "fade_out_seconds": 0.5579931972789116,
+    "loudness_lufs": -20.01,
+    "true_peak_dbtp": -2.39,
+    "playback_stereo_lufs": -17.0,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 13,
     "name": "I See You",
     "file": "13-i-see-you.wav",
     "duration": 3.082448979591837,
-    "fade_out_seconds": 0,
+    "fade_out_seconds": 0.65,
     "loudness_lufs": -20.0,
     "true_peak_dbtp": -4.04,
-    "playback_stereo_lufs": -16.99
+    "playback_stereo_lufs": -16.99,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 14,
     "name": "Gollum Precious",
     "file": "14-gollum-precious.wav",
     "duration": 5.508027210884354,
-    "fade_out_seconds": 0,
-    "loudness_lufs": -20.06,
-    "true_peak_dbtp": -2.5,
-    "playback_stereo_lufs": -17.05
+    "fade_out_seconds": 0.65,
+    "loudness_lufs": -19.99,
+    "true_peak_dbtp": -2.44,
+    "playback_stereo_lufs": -16.98,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 15,
     "name": "Gollum Precious 2",
     "file": "15-gollum-precious-2.wav",
     "duration": 6.984036281179138,
-    "fade_out_seconds": 0,
+    "fade_out_seconds": 0.65,
     "loudness_lufs": -20.0,
     "true_peak_dbtp": -6.58,
-    "playback_stereo_lufs": -16.99
+    "playback_stereo_lufs": -16.99,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 16,
@@ -138,24 +146,26 @@
     "source": "https://www.youtube.com/watch?v=6LAw2pMWKEo",
     "source_start": 110.45,
     "source_end": 118.8,
-    "fade_out_seconds": 0,
-    "loudness_lufs": -16.98,
-    "true_peak_dbtp": -2.35,
-    "playback_stereo_lufs": -16.98,
+    "fade_out_seconds": 0.65,
+    "loudness_lufs": -16.99,
+    "true_peak_dbtp": -2.18,
+    "playback_stereo_lufs": -16.99,
     "sample_rate_hz": 48000,
     "channels": 2,
     "quality_source": "New scene recording; original stereo preserved, no lossy runtime encoding",
-    "processing": "loudnorm=I=-16.990000000000002:TP=-2:LRA=11:measured_I=-44.70:measured_TP=-25.37:measured_LRA=4.80:measured_thresh=-54.81:offset=1.49:linear=true,aresample=48000,apad=whole_dur=8.35,atrim=duration=8.35"
+    "processing": "loudnorm=I=-16.990000000000002:TP=-2:LRA=11:measured_I=-44.70:measured_TP=-25.37:measured_LRA=4.80:measured_thresh=-54.81:offset=1.49:linear=true,aresample=48000,apad=whole_dur=8.35,atrim=duration=8.35",
+    "fade_out_curve": "qsin"
   },
   {
     "id": 17,
     "name": "Horn Haradrim",
     "file": "17-horn-haradrim.wav",
     "duration": 6.817959183673469,
-    "fade_out_seconds": 0,
+    "fade_out_seconds": 0.65,
     "loudness_lufs": -20.0,
     "true_peak_dbtp": -5.6,
-    "playback_stereo_lufs": -16.99
+    "playback_stereo_lufs": -16.99,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 18,
@@ -165,10 +175,11 @@
     "source": "https://www.youtube.com/watch?v=7Y37OqrbUoE",
     "source_start": 95,
     "source_end": 101.5,
-    "fade_out_seconds": 0,
+    "fade_out_seconds": 0.65,
     "loudness_lufs": -20.01,
-    "true_peak_dbtp": -2.5,
-    "playback_stereo_lufs": -17.0
+    "true_peak_dbtp": -2.25,
+    "playback_stereo_lufs": -17.0,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 19,
@@ -178,10 +189,11 @@
     "source": "https://www.youtube.com/watch?v=UaJZLKT4qr0",
     "source_start": 12,
     "source_end": 21,
-    "fade_out_seconds": 0,
+    "fade_out_seconds": 0.65,
     "loudness_lufs": -20.0,
-    "true_peak_dbtp": -6.75,
-    "playback_stereo_lufs": -16.99
+    "true_peak_dbtp": -6.52,
+    "playback_stereo_lufs": -16.99,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 20,
@@ -191,20 +203,22 @@
     "source": "https://www.youtube.com/watch?v=7lwJOxN_gXc",
     "source_start": 215,
     "source_end": 223,
-    "fade_out_seconds": 0,
-    "loudness_lufs": -19.99,
-    "true_peak_dbtp": -4.5,
-    "playback_stereo_lufs": -16.98
+    "fade_out_seconds": 0.65,
+    "loudness_lufs": -20.0,
+    "true_peak_dbtp": -4.1,
+    "playback_stereo_lufs": -16.99,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 21,
     "name": "For Gondor",
     "file": "21-for-gondor.wav",
     "duration": 8.071836734693878,
-    "fade_out_seconds": 0,
+    "fade_out_seconds": 0.65,
     "loudness_lufs": -20.0,
     "true_peak_dbtp": -4.63,
-    "playback_stereo_lufs": -16.99
+    "playback_stereo_lufs": -16.99,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 22,
@@ -214,10 +228,11 @@
     "source": "https://www.youtube.com/watch?v=GqIMhrS14B0",
     "source_start": 17,
     "source_end": 23,
-    "fade_out_seconds": 0,
-    "loudness_lufs": -20.01,
-    "true_peak_dbtp": -3.99,
-    "playback_stereo_lufs": -17.0
+    "fade_out_seconds": 0.65,
+    "loudness_lufs": -20.0,
+    "true_peak_dbtp": -3.7,
+    "playback_stereo_lufs": -16.99,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 23,
@@ -226,50 +241,55 @@
     "duration": 13.426938775510203,
     "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=1831369203",
     "source_cue": "Music Journey",
-    "fade_out_seconds": 0,
+    "fade_out_seconds": 0.65,
     "loudness_lufs": -20.0,
     "true_peak_dbtp": -4.44,
-    "playback_stereo_lufs": -16.99
+    "playback_stereo_lufs": -16.99,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 24,
     "name": "Horn Dwarves",
     "file": "24-horn-dwarves.wav",
     "duration": 6.459002267573696,
-    "fade_out_seconds": 0,
+    "fade_out_seconds": 0.65,
     "loudness_lufs": -20.0,
     "true_peak_dbtp": -8.51,
-    "playback_stereo_lufs": -16.99
+    "playback_stereo_lufs": -16.99,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 25,
     "name": "Witch-King Break Him",
     "file": "25-witch-king-break-him.wav",
     "duration": 3.9126984126984126,
-    "fade_out_seconds": 0,
-    "loudness_lufs": -19.9,
-    "true_peak_dbtp": -1.99,
-    "playback_stereo_lufs": -16.89
+    "fade_out_seconds": 0.65,
+    "loudness_lufs": -20.0,
+    "true_peak_dbtp": -2.09,
+    "playback_stereo_lufs": -16.99,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 26,
     "name": "Gothmog Fear",
     "file": "26-gothmog-fear.wav",
     "duration": 6.548798185941043,
-    "fade_out_seconds": 0,
-    "loudness_lufs": -20.04,
-    "true_peak_dbtp": -2.5,
-    "playback_stereo_lufs": -17.03
+    "fade_out_seconds": 0.65,
+    "loudness_lufs": -19.99,
+    "true_peak_dbtp": -2.46,
+    "playback_stereo_lufs": -16.98,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 27,
     "name": "Voice of Sauron Welcome",
     "file": "27-voice-of-sauron-welcome.wav",
     "duration": 5.012018140589569,
-    "fade_out_seconds": 0,
+    "fade_out_seconds": 0.65,
     "loudness_lufs": -20.0,
     "true_peak_dbtp": -2.34,
-    "playback_stereo_lufs": -16.99
+    "playback_stereo_lufs": -16.99,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 28,
@@ -279,14 +299,15 @@
     "source": "https://www.youtube.com/watch?v=DgNrvnY1mo0",
     "source_start": 114.1,
     "source_end": 118.65,
-    "fade_out_seconds": 0,
+    "fade_out_seconds": 0.65,
     "loudness_lufs": -16.99,
-    "true_peak_dbtp": -5.55,
+    "true_peak_dbtp": -5.61,
     "playback_stereo_lufs": -16.99,
     "sample_rate_hz": 48000,
     "channels": 2,
     "quality_source": "New scene recording; original stereo preserved, no lossy runtime encoding",
-    "processing": "volume=-5.1900dB,aresample=48000,apad=whole_dur=4.55,atrim=duration=4.55"
+    "processing": "volume=-5.1900dB,aresample=48000,apad=whole_dur=4.55,atrim=duration=4.55",
+    "fade_out_curve": "qsin"
   },
   {
     "id": 29,
@@ -296,14 +317,15 @@
     "source": "https://www.youtube.com/watch?v=g8LQUVWCcoo",
     "source_start": 12.9,
     "source_end": 16.3,
-    "fade_out_seconds": 0,
-    "loudness_lufs": -17.0,
-    "true_peak_dbtp": -2.35,
-    "playback_stereo_lufs": -17.0,
+    "fade_out_seconds": 0.65,
+    "loudness_lufs": -16.99,
+    "true_peak_dbtp": -2.46,
+    "playback_stereo_lufs": -16.99,
     "sample_rate_hz": 48000,
     "channels": 2,
     "quality_source": "New scene recording; original stereo preserved, no lossy runtime encoding",
-    "processing": "loudnorm=I=-16.990000000000002:TP=-2:LRA=11:measured_I=-21.68:measured_TP=-2.67:measured_LRA=3.60:measured_thresh=-32.02:offset=2.05:linear=true,aresample=48000,apad=whole_dur=3.4,atrim=duration=3.4"
+    "processing": "loudnorm=I=-16.990000000000002:TP=-2:LRA=11:measured_I=-21.68:measured_TP=-2.67:measured_LRA=3.60:measured_thresh=-32.02:offset=2.05:linear=true,aresample=48000,apad=whole_dur=3.4,atrim=duration=3.4",
+    "fade_out_curve": "qsin"
   },
   {
     "id": 30,
@@ -313,94 +335,103 @@
     "source": "https://www.youtube.com/watch?v=bgG92ok4S50",
     "source_start": 19.35,
     "source_end": 28.0,
-    "fade_out_seconds": 0,
-    "loudness_lufs": -16.98,
-    "true_peak_dbtp": -2.4,
-    "playback_stereo_lufs": -16.98,
+    "fade_out_seconds": 0.65,
+    "loudness_lufs": -17.0,
+    "true_peak_dbtp": -2.29,
+    "playback_stereo_lufs": -17.0,
     "sample_rate_hz": 48000,
     "channels": 2,
     "quality_source": "New scene recording; original stereo preserved, no lossy runtime encoding",
-    "processing": "loudnorm=I=-16.990000000000002:TP=-2:LRA=11:measured_I=-24.81:measured_TP=-9.50:measured_LRA=2.80:measured_thresh=-34.85:offset=-0.05:linear=true,aresample=48000,apad=whole_dur=8.65,atrim=duration=8.65"
+    "processing": "loudnorm=I=-16.990000000000002:TP=-2:LRA=11:measured_I=-24.81:measured_TP=-9.50:measured_LRA=2.80:measured_thresh=-34.85:offset=-0.05:linear=true,aresample=48000,apad=whole_dur=8.65,atrim=duration=8.65",
+    "fade_out_curve": "qsin"
   },
   {
     "id": 31,
     "name": "Aragorn-Bid You Stand",
     "file": "31-aragorn-bid-you-stand.wav",
     "duration": 6.053061224489796,
-    "fade_out_seconds": 0,
-    "loudness_lufs": -19.99,
+    "fade_out_seconds": 0.65,
+    "loudness_lufs": -20.0,
     "true_peak_dbtp": -2.11,
-    "playback_stereo_lufs": -16.98
+    "playback_stereo_lufs": -16.99,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 32,
     "name": "You Shall Not Pass",
     "file": "32-you-shall-not-pass.wav",
     "duration": 4.716009070294785,
-    "fade_out_seconds": 0,
-    "loudness_lufs": -19.99,
-    "true_peak_dbtp": -6.15,
-    "playback_stereo_lufs": -16.98
+    "fade_out_seconds": 0.65,
+    "loudness_lufs": -20.01,
+    "true_peak_dbtp": -6.01,
+    "playback_stereo_lufs": -17.0,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 33,
     "name": "Gandalf Keep it Secret",
     "file": "33-gandalf-keep-it-secret.wav",
     "duration": 4.284036281179138,
-    "fade_out_seconds": 0,
-    "loudness_lufs": -20.01,
-    "true_peak_dbtp": -2.33,
-    "playback_stereo_lufs": -17.0
+    "fade_out_seconds": 0.65,
+    "loudness_lufs": -19.99,
+    "true_peak_dbtp": -2.36,
+    "playback_stereo_lufs": -16.98,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 34,
     "name": "Treebeard",
     "file": "34-treebeard.wav",
     "duration": 10.94403628117914,
-    "fade_out_seconds": 0,
-    "loudness_lufs": -20.01,
-    "true_peak_dbtp": -4.21,
-    "playback_stereo_lufs": -17.0
+    "fade_out_seconds": 0.65,
+    "loudness_lufs": -20.0,
+    "true_peak_dbtp": -4.2,
+    "playback_stereo_lufs": -16.99,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 35,
     "name": "I Feel it",
     "file": "35-i-feel-it.wav",
     "duration": 26.82,
-    "fade_out_seconds": 0,
-    "loudness_lufs": -20.03,
-    "true_peak_dbtp": -2.5,
-    "playback_stereo_lufs": -17.02
+    "fade_out_seconds": 0.65,
+    "loudness_lufs": -20.01,
+    "true_peak_dbtp": -2.47,
+    "playback_stereo_lufs": -17.0,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 36,
     "name": "Gandalf-One Ring",
     "file": "36-gandalf-one-ring.wav",
     "duration": 12.492018140589568,
-    "fade_out_seconds": 0,
-    "loudness_lufs": -19.89,
-    "true_peak_dbtp": -2.0,
-    "playback_stereo_lufs": -16.88
+    "fade_out_seconds": 0.65,
+    "loudness_lufs": -20.0,
+    "true_peak_dbtp": -2.11,
+    "playback_stereo_lufs": -16.99,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 37,
     "name": "Get Off the Road",
     "file": "37-get-off-the-road.wav",
     "duration": 1.5840362811791384,
-    "fade_out_seconds": 0,
-    "loudness_lufs": -19.98,
-    "true_peak_dbtp": -7.5,
-    "playback_stereo_lufs": -16.97
+    "fade_out_seconds": 0.3960090702947846,
+    "loudness_lufs": -20.0,
+    "true_peak_dbtp": -7.52,
+    "playback_stereo_lufs": -16.99,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 38,
     "name": "The Ring is Mine",
     "file": "38-the-ring-is-mine.wav",
     "duration": 19.121632653061223,
-    "fade_out_seconds": 0,
-    "loudness_lufs": -19.99,
-    "true_peak_dbtp": -6.49,
-    "playback_stereo_lufs": -16.98
+    "fade_out_seconds": 0.65,
+    "loudness_lufs": -20.01,
+    "true_peak_dbtp": -6.5,
+    "playback_stereo_lufs": -17.0,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 39,
@@ -413,20 +444,22 @@
     "name": "You cannot hide",
     "file": "40-you-cannot-hide.wav",
     "duration": 3.082448979591837,
-    "fade_out_seconds": 0,
-    "loudness_lufs": -20.01,
-    "true_peak_dbtp": -3.98,
-    "playback_stereo_lufs": -17.0
+    "fade_out_seconds": 0.65,
+    "loudness_lufs": -19.99,
+    "true_peak_dbtp": -3.97,
+    "playback_stereo_lufs": -16.98,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 41,
     "name": "I am Gandalf the White",
     "file": "41-i-am-gandalf-the-white.wav",
     "duration": 12.721632653061224,
-    "fade_out_seconds": 0,
-    "loudness_lufs": -19.97,
-    "true_peak_dbtp": -2.14,
-    "playback_stereo_lufs": -16.96
+    "fade_out_seconds": 0.65,
+    "loudness_lufs": -20.0,
+    "true_peak_dbtp": -2.17,
+    "playback_stereo_lufs": -16.99,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 42,
@@ -436,60 +469,66 @@
     "source": "https://www.youtube.com/watch?v=WYi4Bp1hmC0",
     "source_start": 123.35,
     "source_end": 130.75,
-    "fade_out_seconds": 0,
-    "loudness_lufs": -19.99,
-    "true_peak_dbtp": -5.36,
-    "playback_stereo_lufs": -16.98
+    "fade_out_seconds": 0.65,
+    "loudness_lufs": -20.01,
+    "true_peak_dbtp": -5.43,
+    "playback_stereo_lufs": -17.0,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 43,
     "name": "Brand-Corrupted",
     "file": "43-brand-corrupted.wav",
     "duration": 7.570748299319728,
-    "fade_out_seconds": 0,
+    "fade_out_seconds": 0.65,
     "loudness_lufs": -20.0,
     "true_peak_dbtp": -3.06,
-    "playback_stereo_lufs": -16.99
+    "playback_stereo_lufs": -16.99,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 44,
     "name": "Dain-Awakened",
     "file": "44-dain-awakened.wav",
     "duration": 8.033469387755103,
-    "fade_out_seconds": 0,
+    "fade_out_seconds": 0.65,
     "loudness_lufs": -20.0,
-    "true_peak_dbtp": -4.6,
-    "playback_stereo_lufs": -16.99
+    "true_peak_dbtp": -4.68,
+    "playback_stereo_lufs": -16.99,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 45,
     "name": "Dain-Corrupted",
     "file": "45-dain-corrupted.wav",
     "duration": 10.264580498866213,
-    "fade_out_seconds": 0,
-    "loudness_lufs": -20.01,
-    "true_peak_dbtp": -2.19,
-    "playback_stereo_lufs": -17.0
+    "fade_out_seconds": 0.65,
+    "loudness_lufs": -20.0,
+    "true_peak_dbtp": -2.18,
+    "playback_stereo_lufs": -16.99,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 46,
     "name": "Denethor-Awakened",
     "file": "46-denethor-awakened.wav",
     "duration": 13.92530612244898,
-    "fade_out_seconds": 0,
-    "loudness_lufs": -19.99,
-    "true_peak_dbtp": -2.32,
-    "playback_stereo_lufs": -16.98
+    "fade_out_seconds": 0.65,
+    "loudness_lufs": -20.0,
+    "true_peak_dbtp": -2.33,
+    "playback_stereo_lufs": -16.99,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 47,
     "name": "Denethor-Corrupted",
     "file": "47-denethor-corrupted.wav",
     "duration": 9.332199546485262,
-    "fade_out_seconds": 0,
-    "loudness_lufs": -20.07,
-    "true_peak_dbtp": -2.5,
-    "playback_stereo_lufs": -17.06
+    "fade_out_seconds": 0.65,
+    "loudness_lufs": -19.99,
+    "true_peak_dbtp": -2.42,
+    "playback_stereo_lufs": -16.98,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 48,
@@ -498,10 +537,11 @@
     "duration": 8.05,
     "trim_start_seconds": 0,
     "trim_end_seconds": 8.05,
-    "fade_out_seconds": 0,
+    "fade_out_seconds": 0.65,
     "loudness_lufs": -20.0,
-    "true_peak_dbtp": -2.32,
-    "playback_stereo_lufs": -16.99
+    "true_peak_dbtp": -2.16,
+    "playback_stereo_lufs": -16.99,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 49,
@@ -510,13 +550,14 @@
     "duration": 6.94,
     "trim_start_seconds": 0,
     "trim_end_seconds": 6.94,
-    "fade_out_seconds": 0,
-    "loudness_lufs": -17.0,
-    "true_peak_dbtp": -2.06,
-    "playback_stereo_lufs": -13.99,
+    "fade_out_seconds": 0.65,
+    "loudness_lufs": -17.17,
+    "true_peak_dbtp": -2.5,
+    "playback_stereo_lufs": -14.16,
     "volume_boost_db": 3,
     "final_word_end_seconds": 6.44,
-    "tail_seconds": 0.5
+    "tail_seconds": 0.5,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 50,
@@ -525,10 +566,11 @@
     "duration": 5.15,
     "trim_start_seconds": 1.03,
     "trim_end_seconds": 6.18,
-    "fade_out_seconds": 0,
-    "loudness_lufs": -20.01,
-    "true_peak_dbtp": -3.72,
-    "playback_stereo_lufs": -17.0
+    "fade_out_seconds": 0.65,
+    "loudness_lufs": -20.0,
+    "true_peak_dbtp": -3.76,
+    "playback_stereo_lufs": -16.99,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 51,
@@ -538,10 +580,11 @@
     "source": "https://www.youtube.com/watch?v=FtJRmnmGP0U",
     "source_start": 9.7,
     "source_end": 14.75,
-    "fade_out_seconds": 0,
-    "loudness_lufs": -20.0,
-    "true_peak_dbtp": -2.33,
-    "playback_stereo_lufs": -16.99
+    "fade_out_seconds": 0.65,
+    "loudness_lufs": -19.99,
+    "true_peak_dbtp": -2.26,
+    "playback_stereo_lufs": -16.98,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 52,
@@ -551,14 +594,15 @@
     "source": "https://www.youtube.com/watch?v=Jl8TiA3RwIY",
     "source_start": 52.1,
     "source_end": 55.0,
-    "fade_out_seconds": 0,
-    "loudness_lufs": -17.0,
-    "true_peak_dbtp": -7.87,
-    "playback_stereo_lufs": -17.0,
+    "fade_out_seconds": 0.65,
+    "loudness_lufs": -16.98,
+    "true_peak_dbtp": -7.58,
+    "playback_stereo_lufs": -16.98,
     "sample_rate_hz": 48000,
     "channels": 2,
     "quality_source": "New scene recording; original stereo preserved, no lossy runtime encoding",
-    "processing": "volume=5.2900dB,aresample=48000,apad=whole_dur=2.9,atrim=duration=2.9"
+    "processing": "volume=5.2900dB,aresample=48000,apad=whole_dur=2.9,atrim=duration=2.9",
+    "fade_out_curve": "qsin"
   },
   {
     "id": 53,
@@ -568,14 +612,15 @@
     "source": "https://www.youtube.com/watch?v=KnD_NkGTEXo",
     "source_start": 23.38,
     "source_end": 30.56,
-    "fade_out_seconds": 0,
-    "loudness_lufs": -16.9,
-    "true_peak_dbtp": -3.28,
-    "playback_stereo_lufs": -16.9,
+    "fade_out_seconds": 0.65,
+    "loudness_lufs": -16.99,
+    "true_peak_dbtp": -3.37,
+    "playback_stereo_lufs": -16.99,
     "sample_rate_hz": 48000,
     "channels": 2,
     "quality_source": "New scene recording; original stereo preserved, no lossy runtime encoding",
-    "processing": "loudnorm=I=-16.990000000000002:TP=-2:LRA=11:measured_I=-24.54:measured_TP=-8.65:measured_LRA=12.40:measured_thresh=-35.52:offset=-1.01:linear=true,aresample=48000,apad=whole_dur=7.18,atrim=duration=7.18"
+    "processing": "loudnorm=I=-16.990000000000002:TP=-2:LRA=11:measured_I=-24.54:measured_TP=-8.65:measured_LRA=12.40:measured_thresh=-35.52:offset=-1.01:linear=true,aresample=48000,apad=whole_dur=7.18,atrim=duration=7.18",
+    "fade_out_curve": "qsin"
   },
   {
     "id": 54,
@@ -585,14 +630,15 @@
     "source": "https://www.youtube.com/watch?v=ufFOghMt1yI",
     "source_start": 142.85,
     "source_end": 147.4,
-    "fade_out_seconds": 0,
-    "loudness_lufs": -17.11,
+    "fade_out_seconds": 0.65,
+    "loudness_lufs": -17.13,
     "true_peak_dbtp": -2.5,
-    "playback_stereo_lufs": -17.11,
+    "playback_stereo_lufs": -17.13,
     "sample_rate_hz": 48000,
     "channels": 2,
     "quality_source": "New scene recording; original stereo preserved, no lossy runtime encoding",
-    "processing": "volume=7.5500dB,aresample=48000,apad=whole_dur=4.55,atrim=duration=4.55"
+    "processing": "volume=7.5500dB,aresample=48000,apad=whole_dur=4.55,atrim=duration=4.55",
+    "fade_out_curve": "qsin"
   },
   {
     "id": 55,
@@ -605,59 +651,65 @@
     "name": "Corsairs",
     "file": "56-corsairs.wav",
     "duration": 14.130657596371883,
-    "fade_out_seconds": 0,
+    "fade_out_seconds": 0.65,
     "loudness_lufs": -20.0,
     "true_peak_dbtp": -2.73,
-    "playback_stereo_lufs": -16.99
+    "playback_stereo_lufs": -16.99,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 57,
     "name": "Dead Men",
     "file": "57-dead-men.wav",
     "duration": 3.7944671201814058,
-    "fade_out_seconds": 0,
+    "fade_out_seconds": 0.65,
     "loudness_lufs": -20.0,
     "true_peak_dbtp": -2.27,
-    "playback_stereo_lufs": -16.99
+    "playback_stereo_lufs": -16.99,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 58,
     "name": "Dunlendings",
     "file": "58-dunlendings.wav",
     "duration": 15.419183673469387,
-    "fade_out_seconds": 0,
-    "loudness_lufs": -20.01,
-    "true_peak_dbtp": -2.73,
-    "playback_stereo_lufs": -17.0
+    "fade_out_seconds": 0.65,
+    "loudness_lufs": -20.0,
+    "true_peak_dbtp": -2.76,
+    "playback_stereo_lufs": -16.99,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 59,
     "name": "Eagles",
     "file": "59-eagles.wav",
     "duration": 15.369750566893424,
-    "fade_out_seconds": 0,
-    "loudness_lufs": -20.0,
-    "true_peak_dbtp": -2.42,
-    "playback_stereo_lufs": -16.99
+    "fade_out_seconds": 0.65,
+    "loudness_lufs": -19.99,
+    "true_peak_dbtp": -2.46,
+    "playback_stereo_lufs": -16.98,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 60,
     "name": "Ents",
     "file": "60-ents.wav",
     "duration": 16.08498866213152,
-    "fade_out_seconds": 0,
-    "loudness_lufs": -19.9,
-    "true_peak_dbtp": -2.0,
-    "playback_stereo_lufs": -16.89
+    "fade_out_seconds": 0.65,
+    "loudness_lufs": -20.0,
+    "true_peak_dbtp": -2.5,
+    "playback_stereo_lufs": -16.99,
+    "fade_out_curve": "qsin"
   },
   {
     "id": 61,
     "name": "Spiders",
     "file": "61-spiders.wav",
     "duration": 16.112743764172336,
-    "fade_out_seconds": 0,
-    "loudness_lufs": -20.06,
-    "true_peak_dbtp": -2.32,
-    "playback_stereo_lufs": -17.05
+    "fade_out_seconds": 0.65,
+    "loudness_lufs": -20.0,
+    "true_peak_dbtp": -2.26,
+    "playback_stereo_lufs": -16.99,
+    "fade_out_curve": "qsin"
   }
 ]

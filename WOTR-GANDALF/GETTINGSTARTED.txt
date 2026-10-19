@@ -1,4 +1,4 @@
-WAR OF THE RING - v1.1
+WAR OF THE RING - v1.11
 
 1. Extract the entire ZIP. Keep the WOTR-GANDALF asset subfolders intact.
 2. Install Java 8 or newer, then open WOTR-GandalfV8-KoME.jar.

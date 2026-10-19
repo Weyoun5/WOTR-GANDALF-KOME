@@ -1,0 +1,1 @@
+import javax.swing.*; public class KomeUiInspect {public static void main(String[] args)throws Exception{SwingUtilities.invokeAndWait(()->{Game g=new Game();for(int n:new int[]{121,122,123,124,194,195,196,197,198,199,200,201})System.out.println("POS "+n+" "+g.v[n].a+","+g.v[n].b+" "+Game.p[n].e());System.out.println("ZOOM "+Game.h.a);});System.exit(0);}}

@@ -1,0 +1,7 @@
+# Java source bytes participate in the gameplay build identifier.
+# Preserve them identically on Windows, macOS and Linux.
+*.java -text whitespace=cr-at-eol,-blank-at-eof
+*.py text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.jar binary
