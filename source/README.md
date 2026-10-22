@@ -16,15 +16,6 @@ Output: `source/.build/WOTR-GandalfV8-KoME.jar`, targeting Java 8. To run it, co
 
 The gameplay identifier covers the original JAR, every maintained Java file, the patcher, and the bundled libraries. The release build date is pinned in `release.json`. ZIP timestamps may vary; uncompressed JAR entries should match the published runtime. Artwork preparation utilities are included for reference; rebuilding the Java client uses the shipped assets and does not require the original artwork workspace.
 
-## Verify
-
-```
-python source/test.py
-python source/test.py --network
-```
-
-The current suite covers 27 security and gameplay regressions. The optional network suite uses separate clients on localhost for native secure dice (including adversarial confirmations in base and expansion games), secure corruption, spectators, WoME cards, additional players, synchronization, and replay. Use `--java PATH` to select Java 8 explicitly while retaining JDK 21 for compilation. Tests require an interactive desktop, open Swing windows, and write only isolated copies under `.build/`. Other historical tests and diagnostic probes remain available in `tests/`; they are not all current release checks.
-
 ## Security scope
 
 The original SHA-1 commitment algorithm and card algorithms remain unchanged. The native secure-dice responder now requires a non-null, exactly 32-character salt before checking the commitment. This closes the ambiguous salt/roll boundary bug in base and expansion games. KoME hidden Hunt tiles use encrypted identities, verified shuffle/opening proofs, and the native commit/reveal exchange for selection. Normal Hunt draws in KoME use that private pool after initialization.
