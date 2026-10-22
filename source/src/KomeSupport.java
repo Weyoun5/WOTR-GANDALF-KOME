@@ -52,7 +52,7 @@ public final class KomeSupport {
             if(!Game.g.exists()) {
                 // The original preference writer expects an existing file; bootstrap
                 // a clean installation without copying another player's settings.
-                Game.h.a=100;Game.h.I=false;
+                Game.h.a=100;Game.h.I=false;Game.h.A="newWOTR:0";
                 Files.createFile(Game.g.toPath());Game.h.b(Game.g);
             }
         }catch(IOException failure){throw new IllegalStateException("Could not initialize client settings/log folder",failure);}

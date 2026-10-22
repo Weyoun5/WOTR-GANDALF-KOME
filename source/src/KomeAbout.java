@@ -3,7 +3,7 @@ import javax.swing.*;
 
 /** Release information is distinct from the local build's date and identity. */
 public final class KomeAbout {
-    static final String VERSION="1.12";
+    static final String VERSION="1.12.1";
     static final String RELEASE_DATE="October 21, 2026";
     static void show(){
         JPanel details=new JPanel(new GridBagLayout());
