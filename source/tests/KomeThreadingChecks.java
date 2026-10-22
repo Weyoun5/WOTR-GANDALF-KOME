@@ -20,11 +20,11 @@ public class KomeThreadingChecks {
         game.P.a(1,6,"roll D6 dice");check(pending(game.P),"Initiator pending");
         bb result=game.P.a("2");check(result!=null&&!pending(game.P),"Original secure arithmetic returns a result");
         check(!KomeRollUi.pending(game.P),"Finished roll cannot show later");
-        String commitment=Game.f("nonce1");
+        String salt=Game.F();check(salt.length()==32,"Native salt has 32 characters");String commitment=Game.f(salt+"1");
         check(game.Q.a(1,6,"roll D6 dice",commitment),"Responder accepts first request");
         check(!game.Q.a(1,6,"roll D6 dice",Game.f("other1")),"Responder rejects overlap");
         check(pending(game.Q),"Overlap preserves original pending state");
-        check(game.Q.a("nonce","1")!=null&&!pending(game.Q),"Original confirmation remains valid");
+        check(game.Q.a(salt,"1")!=null&&!pending(game.Q),"Original confirmation remains valid");
         release.countDown();SwingUtilities.invokeAndWait(()->{});
         check(game.P.a==null||!game.P.a.isShowing(),"No stale initiating modal");
         SwingUtilities.invokeAndWait(()->{for(Window w:Window.getWindows())if(w instanceof JDialog&&((JDialog)w).isModal())check(!w.isVisible(),"No completed-roll modal remains visible");});

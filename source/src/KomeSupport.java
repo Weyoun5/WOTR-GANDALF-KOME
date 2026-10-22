@@ -118,7 +118,7 @@ public final class KomeSupport {
             String tree=KomeExpansions.has(game,KomeExpansions.TREEBEARD)?"T":"";
             if(KomeExpansions.has(game,KomeExpansions.WARRIORS))Game.f=state.mode==2?"expansion2[WLK"+tree+"]":"base2[WK"+tree+"]";
             else Game.f=state.mode==2?"expansion2[LK"+tree+"]":"base2[K"+tree+"]";
-            game.A.d("<kome> init "+state.mode+" reserves-v2");
+            game.A.d("<kome> init "+state.mode+" reserves-v2 corruption-v2");
         } catch(Exception failure) {
             throw new IllegalStateException("Could not load Kings of Middle-earth assets",failure);
         }
@@ -177,7 +177,6 @@ public final class KomeSupport {
             JMenuItem board=new JMenuItem("Sovereign corruption board");
             board.setAccelerator(KeyStroke.getKeyStroke(KeyEvent.VK_K,InputEvent.CTRL_DOWN_MASK));
             board.addActionListener(e->show(game));menu.add(board);
-            JMenuItem huntDice=new JMenuItem("Corruption Hunt dice...");huntDice.addActionListener(e->KomeCorruption.configureEyes(game));menu.add(huntDice);
             JMenuItem undo=new JMenuItem("Undo last Kings action");undo.addActionListener(e->undo(game));menu.add(undo);
             bar.add(menu);bar.revalidate();
             showDetails(game,0);
@@ -280,6 +279,7 @@ public final class KomeSupport {
         State state=state(game);syncFigures(state);KomeCorruption.syncRound(game);StringBuilder text=new StringBuilder();
         KomeCorruption.Attempt attempt=state.attempt;
         text.append("a,").append(attempt.mode).append(',').append(attempt.ruler).append(',').append(attempt.limit).append(',').append(attempt.draws).append(',').append(attempt.last).append(',').append(attempt.round).append(',').append(attempt.sequential?1:0).append(';');
+        if(attempt.captainFilterRecorded)text.append("c,").append(attempt.excludeCharacterDice?1:0).append(",0;");
         for(int ruler:attempt.attempted)text.append("v,").append(ruler).append(",0;");
         for(String id:attempt.excludedEyes)text.append("x,").append(id).append(",0;");
         for(Object item:attempt.rejected.a)text.append("r,").append(((aq)item).n()).append(",0;");
@@ -310,11 +310,13 @@ public final class KomeSupport {
         String privateHunt="";for(String row:raw.split(";"))if(row.startsWith("h,"))privateHunt=row.split(",")[1];KomePrivateHunt.restore(game,privateHunt);
         clear(state);
         KomeCorruption.reset(game);
+        state.attempt.excludeCharacterDice=false;state.attempt.captainFilterRecorded=false;
         for(String row:raw.split(";")) {
             String[] fields=row.split(",");if(fields.length<3)continue;
             if(fields[0].equals("a")){KomeCorruption.Attempt a=state.attempt;a.mode=Integer.parseInt(fields[1]);a.ruler=Integer.parseInt(fields[2]);a.limit=Integer.parseInt(fields[3]);a.draws=Integer.parseInt(fields[4]);a.last=Integer.parseInt(fields[5]);if(fields.length>6)a.round=Integer.parseInt(fields[6]);a.sequential=fields.length>7?fields[7].equals("1"):a.mode==1;}
             if(fields[0].equals("v"))state.attempt.attempted.add(Integer.parseInt(fields[1]));
             if(fields[0].equals("x"))state.attempt.excludedEyes.add(fields[1]);
+            if(fields[0].equals("c")){state.attempt.excludeCharacterDice=fields[1].equals("1");state.attempt.captainFilterRecorded=true;}
             if(fields[0].equals("r")){aq tile=piece(game,Integer.parseInt(fields[1]));tile.a(state.attempt.rejected);state.revealed.add(tile.n());}
             if(fields[0].equals("s")) {
                 int ruler=Integer.parseInt(fields[1]);
@@ -351,7 +353,11 @@ public final class KomeSupport {
             if(op.equals("init")) {
                 int mode=Integer.parseInt(args[2]);
                 if(state.mode!=mode || !state.prepared) {state.message="This save uses "+(mode==2?"Kings + Lords":"Kings")+". Start that game type before loading it.";throw new IllegalArgumentException(state.message);}
-                reset(game);refresh(game);return true;
+                reset(game);
+                // Earlier logs have no C-face filter. Preserve their exact state
+                // fingerprint so encrypted draws still verify during replay/load.
+                if(!Arrays.asList(args).contains("corruption-v2")){state.attempt.excludeCharacterDice=false;state.attempt.captainFilterRecorded=false;}
+                refresh(game);return true;
             }
             if(!state.prepared)return true;
             String before=op.equals("restore")?null:snapshot(game);

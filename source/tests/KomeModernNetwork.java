@@ -20,6 +20,11 @@ public class KomeModernNetwork {
    edt(()->{KomeSupport.State state=KomeSupport.state(game);state.panel.refresh();check((state.attempt.mode!=2)==(expected[at][0]==1)&&state.attempt.sequential==(expected[at][1]==1),"Shared corruption options "+at);check(state.panel.automaticModeBox.isSelected()==(expected[at][0]==1)&&state.panel.sequentialModeBox.isSelected()==(expected[at][1]==1),"Visible shared checkboxes "+at);});mark(role+"-option-"+step);
    if(host){await("client-option-"+step);await("watch-option-"+step);}
   }
+  for(int step=0;step<2;step++){final boolean enabled=step==1;
+   if(host){edt(()->{KomePanel panel=KomeSupport.state(game).panel;panel.refresh();panel.captainModeBox.doClick();});settle();mark("captain-"+step);}else{await("captain-"+step);Thread.sleep(400);}
+   edt(()->{KomePanel panel=KomeSupport.state(game).panel;panel.refresh();check(KomeCorruption.get(game).excludeCharacterDice==enabled&&panel.captainModeBox.isSelected()==enabled,"Captain filter synchronized");});mark(role+"-captain-"+step);
+   if(host){await("client-captain-"+step);await("watch-captain-"+step);}
+  }
  }
  public static void main(String[] args)throws Exception{try{
   role=args[0];sync=Paths.get(args[3]);boolean host=role.equals("host"),watch=role.equals("watch");edt(()->{game=new Game();if(KomeSupport.state(game).panel!=null)KomeSupport.state(game).panel.dispose();Game.h.b=role;});

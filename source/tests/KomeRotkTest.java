@@ -63,7 +63,7 @@ public class KomeRotkTest {
             KomeLogReplay.Session replay=KomeLogReplay.open(game,multi.toFile());while(!replay.finished)replay.step();
             check(KomeExpansions.config(replay.game).mask==(selectedBase|64),"Multi-game replay final selection");
             check(!KomeExpansions.validMask(128)&&!KomeExpansions.validMask(72),"Unknown/deferred bits rejected");
-            check("1.11".equals(KomeVersion.version()),"Release version is 1.11");
+            check("1.12".equals(KomeVersion.version()),"Release version is 1.12");
             System.out.println("ROTK PASS: mask "+(selectedBase|64)+"; exact dice, reserves, unchanged other components, native reset, replay, multi-game logs, and network selection.");
         }catch(Throwable error){failure[0]=error;error.printStackTrace();}});System.exit(failure[0]==null?0:1);
     }

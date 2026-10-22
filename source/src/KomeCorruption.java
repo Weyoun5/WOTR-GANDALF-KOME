@@ -7,6 +7,7 @@ public final class KomeCorruption {
     static final class Attempt {
         int mode=0,ruler=-1,limit,draws,last=-1,round;
         boolean sequential;
+        boolean excludeCharacterDice=true,captainFilterRecorded=true;
         final Set<Integer> attempted=new HashSet<Integer>();
         final Set<String> excludedEyes=new HashSet<String>();
         final d rejected=new d("Corruption redraws");
@@ -22,12 +23,12 @@ public final class KomeCorruption {
     static boolean huntDie(aq piece){return piece instanceof b&&(piece.e()==0||eye(piece));}
     static List<aq> eyes(Game game){
         List<aq> result=new ArrayList<aq>();
-        for(Object item:Game.p[114].a){aq p=(aq)item;if(huntDie(p)&&!get(game).excludedEyes.contains(p.n()))result.add(p);}
+        for(Object item:Game.p[114].a){aq p=(aq)item;if(huntDie(p)&&!get(game).excludedEyes.contains(p.n())&&!(get(game).excludeCharacterDice&&((b)p).e(((b)p).a())=='C'))result.add(p);}
         result.sort(Comparator.comparingInt(p->p instanceof bc?0:p instanceof bh?1:p instanceof KomeDie?2:3));return result;
     }
-    static boolean unusedFreeDie(){for(Object item:Game.p[178].a)if(item instanceof b && !(item instanceof M))return true;return false;}
+    static boolean unusedFreeDie(){for(Object item:Game.p[178].a)if(item instanceof b)return true;return false;}
     static void require(boolean condition,String message){if(!condition)throw new IllegalArgumentException(message);}
-    static void reset(Game game){Attempt a=get(game);for(Object tile:new ArrayList(a.rejected.a))((aq)tile).a(Game.p[182]);a.ruler=-1;a.last=-1;a.draws=a.limit=0;a.round=game.aw;a.attempted.clear();a.excludedEyes.clear();a.mode=0;a.sequential=false;}
+    static void reset(Game game){Attempt a=get(game);for(Object tile:new ArrayList(a.rejected.a))((aq)tile).a(Game.p[182]);a.ruler=-1;a.last=-1;a.draws=a.limit=0;a.round=game.aw;a.attempted.clear();a.excludedEyes.clear();a.mode=0;a.sequential=false;a.excludeCharacterDice=true;a.captainFilterRecorded=true;}
     static void syncRound(Game game){Attempt a=get(game);if(a.round!=game.aw&&a.ruler<0){a.round=game.aw;a.attempted.clear();a.excludedEyes.clear();}}
     static String draws(Game game,int count){
         List<aq> pool=new ArrayList<aq>();for(Object item:Game.p[182].a)if(item instanceof ax)pool.add((aq)item);
@@ -47,10 +48,9 @@ public final class KomeCorruption {
         syncRound(game);Attempt a=get(game);KomeSupport.State state=KomeSupport.state(game);KomeSupport.syncFigures(state);
         require(a.mode!=2,"Manual mode is selected.");require(a.ruler<0,"Finish the current corruption attempt first.");
         require(ruler>=0&&ruler<5&&state.figures[ruler].k()==0,"Choose a regular sovereign.");
-        require(!a.attempted.contains(ruler),"This sovereign has already been targeted this round. Use manual mode for an Event card exception.");
         for(d area:state.drawn)require(area.h()==0,"Return the outstanding manual draws first.");
-        require(unusedFreeDie(),"The Free Peoples must have an unused Action die.");
-        require(eyes(game).size()>1,"At least two eligible Hunt dice must be in the Hunt Box. Shadow dice count regardless of their displayed face; Free Peoples movement dice and excluded Captain of Despair dice do not count.");
+        require(unusedFreeDie(),"The Free Peoples must have an unused Action or Faction die.");
+        require(eyes(game).size()>1,"At least two eligible Hunt dice must be in the Hunt Box. Shadow Faction Eyes count. Free Peoples movement dice and excluded Captain of Despair C dice do not count.");
         require(!Game.p[182].a.isEmpty(),"The Hunt Pool is empty.");
     }
     static void next(Game game){if(KomeSupport.canSeeShadow(game))KomeSecureCorruption.request(game,get(game).ruler,null,true);}
@@ -74,6 +74,11 @@ public final class KomeCorruption {
             require(!KomeRollUi.pending(game.P)&&!KomeRollUi.pending(game.Q),"Wait for the secure roll to finish before switching settings.");
             a.sequential=args[3].equals("1");a.mode=args[2].equals("0")?2:a.sequential?1:0;
             state.message="Automatic corruption attempts: "+(a.mode==2?"No":"Yes")+". Sequential: "+(a.sequential?"Yes":"No")+".";
+        }else if(op.equals("corruptioncaptain")){
+            require(args.length==3&&args[2].matches("[01]"),"Invalid Captain of Despair setting.");
+            require(a.ruler<0&&!KomePrivateHunt.busy(game)&&!KomeRollUi.pending(game.P)&&!KomeRollUi.pending(game.Q),"Finish the current attempt or secure draw before changing the Hunt dice filter.");
+            a.excludeCharacterDice=args[2].equals("1");a.captainFilterRecorded=true;
+            state.message="Captain of Despair: C dice in the Hunt Box "+(a.excludeCharacterDice?"are excluded from corruption attempts.":"are counted for corruption attempts.");
         }else if(op.equals("corruptionmode")){
             int mode=Integer.parseInt(args[2]);require(mode>=0&&mode<=2&&a.ruler<0,"Finish the current attempt before switching modes.");a.mode=mode;if(mode!=2)a.sequential=mode==1;state.message=MODES[mode];
         }else if(op.equals("corruptionround")){

@@ -18,6 +18,7 @@ public final class KomePanel extends JDialog {
     private boolean updating;
     final JCheckBox sequentialModeBox=new JCheckBox("Sequential",false);
     final JCheckBox automaticModeBox=new JCheckBox("Automatic corruption attempts",true);
+    final JCheckBox captainModeBox=new JCheckBox("Exclude Captain of Despair C dice",true);
     private final JPanel choices=new KomeLayout.FlowRow(6,6);
     private String choiceKey="";
     private final JButton[] attempts=new JButton[5],manageButtons=new JButton[5],regular=new JButton[5],clear=new JButton[5];
@@ -25,11 +26,13 @@ public final class KomePanel extends JDialog {
     KomePanel(Game game,KomeSupport.State state) {
         super(Game.C,"Sovereign corruption board",false);this.game=game;this.state=state;
         setDefaultCloseOperation(HIDE_ON_CLOSE);setLayout(new BorderLayout(8,8));
-        JPanel settings=new KomeLayout.FlowRow(8,5);settings.add(automaticModeBox);settings.add(sequentialModeBox);
+        JPanel settings=new KomeLayout.FlowRow(8,5);settings.add(automaticModeBox);settings.add(sequentialModeBox);settings.add(captainModeBox);
         automaticModeBox.setToolTipText("On: spend the Hunt Eye and manage draws automatically. Off: use the manual tile controls. Shared with the other player.");
         sequentialModeBox.setToolTipText("On: draw one at a time and keep the last tile drawn (optional rule, page 18). Off: draw the full allowance and choose one tile (page 11). Shared with the other player.");
         ActionListener options=e->{if(!updating)KomeSupport.send(game,"corruptionsettings "+(automaticModeBox.isSelected()?1:0)+" "+(sequentialModeBox.isSelected()?1:0));};
         automaticModeBox.addActionListener(options);sequentialModeBox.addActionListener(options);
+        captainModeBox.setToolTipText("Exclude Hunt Box dice showing C from both the draw allowance and the die spent to start an attempt. Shared with all players.");
+        captainModeBox.addActionListener(e->{if(!updating)KomeSupport.send(game,"corruptioncaptain "+(captainModeBox.isSelected()?1:0));});
         add(settings,BorderLayout.NORTH);add(sovereigns(),BorderLayout.CENTER);
         JPanel footer=new JPanel(new BorderLayout(8,0));footer.setBorder(new EmptyBorder(5,8,8,8));
         notice.setEditable(false);notice.setOpaque(false);notice.setLineWrap(true);notice.setWrapStyleWord(true);notice.setFont(UIManager.getFont("Label.font"));footer.add(notice,BorderLayout.CENTER);
@@ -73,13 +76,14 @@ public final class KomePanel extends JDialog {
             boolean editable=KomeSupport.canSeeShadow(game)&&!KomeSpectator.watching(game)&&state.attempt.ruler<0&&!KomeRollUi.pending(game.P)&&!KomeRollUi.pending(game.Q)&&!KomePrivateHunt.busy(game);
             automaticModeBox.setSelected(!manual);sequentialModeBox.setSelected(state.attempt.sequential);
             automaticModeBox.setEnabled(editable);sequentialModeBox.setEnabled(editable);
+            captainModeBox.setSelected(state.attempt.excludeCharacterDice);captainModeBox.setEnabled(editable);
             for(int i=0;i<5;i++){
                 statuses[i].setText(new String[]{"Regular","Awakened","Corrupted"}[state.figures[i].k()]);places[i].setText("Location: "+d.d(state.figures[i].m().e()));
                 awaken[i].setEnabled(state.figures[i].k()!=1);corrupt[i].setEnabled(state.figures[i].k()!=2);
                 tiles[i].setText(state.held[i].a.size()+" held \u00b7 "+state.drawn[i].a.size()+" drawn");
                 awaken[i].setVisible(manual);corrupt[i].setVisible(manual);regular[i].setVisible(manual);manageButtons[i].setVisible(manual);clear[i].setVisible(manual);
                 attempts[i].setVisible(!manual);attempts[i].setText("Corruption attempt");
-                attempts[i].setEnabled(!KomeSpectator.watching(game)&&!KomeRollUi.pending(game.P)&&!KomeRollUi.pending(game.Q)&&!KomePrivateHunt.busy(game)&&KomeSupport.canSeeShadow(game)&&(state.attempt.ruler==i||state.attempt.ruler<0&&state.figures[i].k()==0&&!state.attempt.attempted.contains(i)));
+                attempts[i].setEnabled(!KomeSpectator.watching(game)&&!KomeRollUi.pending(game.P)&&!KomeRollUi.pending(game.Q)&&!KomePrivateHunt.busy(game)&&KomeSupport.canSeeShadow(game)&&(state.attempt.ruler==i||state.attempt.ruler<0&&state.figures[i].k()==0));
             }
             notice.setText(state.message.isEmpty()?"Kings actions are shared through the normal game log.":state.message);notice.setToolTipText(state.message);board.repaint();
             updateChoices();

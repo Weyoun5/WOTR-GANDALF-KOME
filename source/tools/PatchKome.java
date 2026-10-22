@@ -187,6 +187,20 @@ public class PatchKome implements Opcodes {
                     if(first==null||last==null)throw new IllegalStateException("Secure dialog cleanup changed: "+name);
                     InsnList code=new InsnList();code.add(new VarInsnNode(ALOAD,0));code.add(new MethodInsnNode(INVOKESTATIC,"KomeRollUi","close","(Ljava/lang/Object;)V",false));range(method,first,last,code);hooks++;
                 }
+                if(name.equals("aV")&&method.desc.equals("(Ljava/lang/String;Ljava/lang/String;)Lbb;")){
+                    int checked=0;
+                    for(AbstractInsnNode node:method.instructions.toArray())if(node instanceof MethodInsnNode&&((MethodInsnNode)node).owner.equals("Game")&&((MethodInsnNode)node).name.equals("f")){
+                        AbstractInsnNode begin=node;
+                        while(begin!=null&&!(begin instanceof TypeInsnNode&&begin.getOpcode()==NEW&&((TypeInsnNode)begin).desc.equals("java/lang/StringBuilder")))begin=begin.getPrevious();
+                        AbstractInsnNode branch=node.getNext();while(branch!=null&&!(branch instanceof JumpInsnNode))branch=branch.getNext();
+                        if(begin==null||branch==null||branch.getOpcode()!=IFNE)throw new IllegalStateException("Remote secure-roll hash comparison changed");
+                        LabelNode invalid=new LabelNode();method.instructions.insert(branch,invalid);
+                        InsnList guard=new InsnList();guard.add(new VarInsnNode(ALOAD,1));guard.add(new JumpInsnNode(IFNULL,invalid));
+                        guard.add(new VarInsnNode(ALOAD,1));guard.add(new MethodInsnNode(INVOKEVIRTUAL,"java/lang/String","length","()I",false));guard.add(new IntInsnNode(BIPUSH,32));guard.add(new JumpInsnNode(IF_ICMPNE,invalid));
+                        method.instructions.insertBefore(begin,guard);checked++;hooks++;
+                    }
+                    if(checked!=1)throw new IllegalStateException("Expected one remote secure-roll salt validation, found "+checked);
+                }
                 for(AbstractInsnNode node:method.instructions.toArray())if(node instanceof MethodInsnNode&&((MethodInsnNode)node).owner.equals("javax/swing/JOptionPane")&&((MethodInsnNode)node).name.equals("showMessageDialog"))method.instructions.set(node,new MethodInsnNode(INVOKESTATIC,"KomeUi","alert","(Ljava/awt/Component;Ljava/lang/Object;)V",false));
             }
             if(name.equals("bp") && method.name.equals("run") && method.desc.equals("()V")) {

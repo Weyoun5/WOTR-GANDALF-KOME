@@ -12,6 +12,7 @@ public class KomeReviewUpdatesTest {
     public static void main(String[] args)throws Exception{
         final Throwable[] failure={null};SwingUtilities.invokeAndWait(()->{try{
             Game game=new Game();if(KomeSupport.state(game).panel!=null)KomeSupport.state(game).panel.dispose();
+            KomeCorruption.get(game).excludeCharacterDice=false; // Explicit opt-out for unchanged face-independent allocation checks.
             for(Object item:new ArrayList(Game.p[114].a))((aq)item).a(Game.p[176]);
             int tested=0;
             for(Object item:game.y)if(item instanceof b&&((aq)item).e()==0){
